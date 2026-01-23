@@ -1,0 +1,3306 @@
+[
+    {
+        "X_pattern": [
+            578
+        ],
+        "Y_pattern": [
+            39
+        ],
+        "supp": 10,
+        "conf": 0.47619047619047616,
+        "labeled_X": [
+            "onlin"
+        ],
+        "labeled_Y": [
+            "algorithm"
+        ]
+    },
+    {
+        "X_pattern": [
+            229
+        ],
+        "Y_pattern": [
+            39
+        ],
+        "supp": 7,
+        "conf": 0.5833333333333334,
+        "labeled_X": [
+            "decomposit"
+        ],
+        "labeled_Y": [
+            "algorithm"
+        ]
+    },
+    {
+        "X_pattern": [
+            672
+        ],
+        "Y_pattern": [
+            39
+        ],
+        "supp": 8,
+        "conf": 0.8,
+        "labeled_X": [
+            "perceptron"
+        ],
+        "labeled_Y": [
+            "algorithm"
+        ]
+    },
+    {
+        "X_pattern": [
+            342
+        ],
+        "Y_pattern": [
+            39
+        ],
+        "supp": 13,
+        "conf": 0.21666666666666667,
+        "labeled_X": [
+            "effici"
+        ],
+        "labeled_Y": [
+            "algorithm"
+        ]
+    },
+    {
+        "X_pattern": [
+            3
+        ],
+        "Y_pattern": [
+            39
+        ],
+        "supp": 46,
+        "conf": 0.17358490566037735,
+        "labeled_X": [
+            "learn"
+        ],
+        "labeled_Y": [
+            "algorithm"
+        ]
+    },
+    {
+        "X_pattern": [
+            2
+        ],
+        "Y_pattern": [
+            3
+        ],
+        "supp": 43,
+        "conf": 0.5584415584415584,
+        "labeled_X": [
+            "machin"
+        ],
+        "labeled_Y": [
+            "learn"
+        ]
+    },
+    {
+        "X_pattern": [
+            834
+        ],
+        "Y_pattern": [
+            3
+        ],
+        "supp": 16,
+        "conf": 1.0,
+        "labeled_X": [
+            "reinforc"
+        ],
+        "labeled_Y": [
+            "learn"
+        ]
+    },
+    {
+        "X_pattern": [
+            1070
+        ],
+        "Y_pattern": [
+            3
+        ],
+        "supp": 8,
+        "conf": 0.6666666666666666,
+        "labeled_X": [
+            "activ"
+        ],
+        "labeled_Y": [
+            "learn"
+        ]
+    },
+    {
+        "X_pattern": [
+            599
+        ],
+        "Y_pattern": [
+            3
+        ],
+        "supp": 5,
+        "conf": 0.625,
+        "labeled_X": [
+            "supervis"
+        ],
+        "labeled_Y": [
+            "learn"
+        ]
+    },
+    {
+        "X_pattern": [
+            3
+        ],
+        "Y_pattern": [
+            238
+        ],
+        "supp": 14,
+        "conf": 0.052830188679245285,
+        "labeled_X": [
+            "learn"
+        ],
+        "labeled_Y": [
+            "task"
+        ]
+    },
+    {
+        "X_pattern": [
+            3
+        ],
+        "Y_pattern": [
+            250
+        ],
+        "supp": 8,
+        "conf": 0.03018867924528302,
+        "labeled_X": [
+            "learn"
+        ],
+        "labeled_Y": [
+            "rate"
+        ]
+    },
+    {
+        "X_pattern": [
+            3
+        ],
+        "Y_pattern": [
+            9
+        ],
+        "supp": 22,
+        "conf": 0.0830188679245283,
+        "labeled_X": [
+            "learn"
+        ],
+        "labeled_Y": [
+            "problem"
+        ]
+    },
+    {
+        "X_pattern": [
+            112
+        ],
+        "Y_pattern": [
+            25
+        ],
+        "supp": 11,
+        "conf": 0.6875,
+        "labeled_X": [
+            "graphic"
+        ],
+        "labeled_Y": [
+            "model"
+        ]
+    },
+    {
+        "X_pattern": [
+            25
+        ],
+        "Y_pattern": [
+            343
+        ],
+        "supp": 24,
+        "conf": 0.11267605633802817,
+        "labeled_X": [
+            "model"
+        ],
+        "labeled_Y": [
+            "select"
+        ]
+    },
+    {
+        "X_pattern": [
+            751
+        ],
+        "Y_pattern": [
+            25
+        ],
+        "supp": 12,
+        "conf": 0.5,
+        "labeled_X": [
+            "gaussian"
+        ],
+        "labeled_Y": [
+            "model"
+        ]
+    },
+    {
+        "X_pattern": [
+            25
+        ],
+        "Y_pattern": [
+            24
+        ],
+        "supp": 6,
+        "conf": 0.028169014084507043,
+        "labeled_X": [
+            "model"
+        ],
+        "labeled_Y": [
+            "type"
+        ]
+    },
+    {
+        "X_pattern": [
+            511
+        ],
+        "Y_pattern": [
+            9
+        ],
+        "supp": 9,
+        "conf": 0.4090909090909091,
+        "labeled_X": [
+            "solv"
+        ],
+        "labeled_Y": [
+            "problem"
+        ]
+    },
+    {
+        "X_pattern": [
+            317
+        ],
+        "Y_pattern": [
+            9
+        ],
+        "supp": 9,
+        "conf": 0.391304347826087,
+        "labeled_X": [
+            "consid"
+        ],
+        "labeled_Y": [
+            "problem"
+        ]
+    },
+    {
+        "X_pattern": [
+            336
+        ],
+        "Y_pattern": [
+            9
+        ],
+        "supp": 10,
+        "conf": 0.24390243902439024,
+        "labeled_X": [
+            "solut"
+        ],
+        "labeled_Y": [
+            "problem"
+        ]
+    },
+    {
+        "X_pattern": [
+            251
+        ],
+        "Y_pattern": [
+            9
+        ],
+        "supp": 15,
+        "conf": 0.19230769230769232,
+        "labeled_X": [
+            "classif"
+        ],
+        "labeled_Y": [
+            "problem"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            124,
+            201
+        ],
+        "supp": 45,
+        "conf": 0.006140829694323144,
+        "labeled_X": [],
+        "labeled_Y": [
+            "data",
+            "set"
+        ]
+    },
+    {
+        "X_pattern": [
+            124,
+            201
+        ],
+        "Y_pattern": [
+            1249
+        ],
+        "supp": 4,
+        "conf": 0.08888888888888889,
+        "labeled_X": [
+            "data",
+            "set"
+        ],
+        "labeled_Y": [
+            "million"
+        ]
+    },
+    {
+        "X_pattern": [
+            15
+        ],
+        "Y_pattern": [
+            124,
+            201
+        ],
+        "supp": 9,
+        "conf": 0.15,
+        "labeled_X": [
+            "larg"
+        ],
+        "labeled_Y": [
+            "data",
+            "set"
+        ]
+    },
+    {
+        "X_pattern": [
+            124
+        ],
+        "Y_pattern": [
+            157
+        ],
+        "supp": 5,
+        "conf": 0.03048780487804878,
+        "labeled_X": [
+            "data"
+        ],
+        "labeled_Y": [
+            "mine"
+        ]
+    },
+    {
+        "X_pattern": [
+            124
+        ],
+        "Y_pattern": [
+            656
+        ],
+        "supp": 10,
+        "conf": 0.06097560975609756,
+        "labeled_X": [
+            "data"
+        ],
+        "labeled_Y": [
+            "point"
+        ]
+    },
+    {
+        "X_pattern": [
+            36
+        ],
+        "Y_pattern": [
+            124
+        ],
+        "supp": 8,
+        "conf": 0.25806451612903225,
+        "labeled_X": [
+            "observ"
+        ],
+        "labeled_Y": [
+            "data"
+        ]
+    },
+    {
+        "X_pattern": [
+            121
+        ],
+        "Y_pattern": [
+            124
+        ],
+        "supp": 8,
+        "conf": 0.13559322033898305,
+        "labeled_X": [
+            "number"
+        ],
+        "labeled_Y": [
+            "data"
+        ]
+    },
+    {
+        "X_pattern": [
+            214
+        ],
+        "Y_pattern": [
+            138
+        ],
+        "supp": 19,
+        "conf": 0.25675675675675674,
+        "labeled_X": [
+            "propos"
+        ],
+        "labeled_Y": [
+            "method"
+        ]
+    },
+    {
+        "X_pattern": [
+            460
+        ],
+        "Y_pattern": [
+            257
+        ],
+        "supp": 25,
+        "conf": 0.5434782608695652,
+        "labeled_X": [
+            "loss"
+        ],
+        "labeled_Y": [
+            "function"
+        ]
+    },
+    {
+        "X_pattern": [
+            285
+        ],
+        "Y_pattern": [
+            257
+        ],
+        "supp": 11,
+        "conf": 0.24444444444444444,
+        "labeled_X": [
+            "valu"
+        ],
+        "labeled_Y": [
+            "function"
+        ]
+    },
+    {
+        "X_pattern": [
+            1399
+        ],
+        "Y_pattern": [
+            257
+        ],
+        "supp": 5,
+        "conf": 0.45454545454545453,
+        "labeled_X": [
+            "util"
+        ],
+        "labeled_Y": [
+            "function"
+        ]
+    },
+    {
+        "X_pattern": [
+            1409
+        ],
+        "Y_pattern": [
+            257
+        ],
+        "supp": 4,
+        "conf": 0.6666666666666666,
+        "labeled_X": [
+            "influenc"
+        ],
+        "labeled_Y": [
+            "function"
+        ]
+    },
+    {
+        "X_pattern": [
+            205
+        ],
+        "Y_pattern": [
+            257
+        ],
+        "supp": 6,
+        "conf": 0.3,
+        "labeled_X": [
+            "object"
+        ],
+        "labeled_Y": [
+            "function"
+        ]
+    },
+    {
+        "X_pattern": [
+            48
+        ],
+        "Y_pattern": [
+            143
+        ],
+        "supp": 12,
+        "conf": 0.10434782608695652,
+        "labeled_X": [
+            "gener"
+        ],
+        "labeled_Y": [
+            "error"
+        ]
+    },
+    {
+        "X_pattern": [
+            48
+        ],
+        "Y_pattern": [
+            118
+        ],
+        "supp": 11,
+        "conf": 0.09565217391304348,
+        "labeled_X": [
+            "gener"
+        ],
+        "labeled_Y": [
+            "bound"
+        ]
+    },
+    {
+        "X_pattern": [
+            301
+        ],
+        "Y_pattern": [
+            48
+        ],
+        "supp": 8,
+        "conf": 0.16,
+        "labeled_X": [
+            "more"
+        ],
+        "labeled_Y": [
+            "gener"
+        ]
+    },
+    {
+        "X_pattern": [
+            231
+        ],
+        "Y_pattern": [
+            115
+        ],
+        "supp": 9,
+        "conf": 0.25,
+        "labeled_X": [
+            "experi"
+        ],
+        "labeled_Y": [
+            "show"
+        ]
+    },
+    {
+        "X_pattern": [
+            431
+        ],
+        "Y_pattern": [
+            114
+        ],
+        "supp": 8,
+        "conf": 0.34782608695652173,
+        "labeled_X": [
+            "experiment"
+        ],
+        "labeled_Y": [
+            "result"
+        ]
+    },
+    {
+        "X_pattern": [
+            521
+        ],
+        "Y_pattern": [
+            251
+        ],
+        "supp": 7,
+        "conf": 0.15555555555555556,
+        "labeled_X": [
+            "regress"
+        ],
+        "labeled_Y": [
+            "classif"
+        ]
+    },
+    {
+        "X_pattern": [
+            251
+        ],
+        "Y_pattern": [
+            521
+        ],
+        "supp": 7,
+        "conf": 0.08974358974358974,
+        "labeled_X": [
+            "classif"
+        ],
+        "labeled_Y": [
+            "regress"
+        ]
+    },
+    {
+        "X_pattern": [
+            519,
+            323
+        ],
+        "Y_pattern": [
+            2
+        ],
+        "supp": 29,
+        "conf": 0.9354838709677419,
+        "labeled_X": [
+            "support",
+            "vector"
+        ],
+        "labeled_Y": [
+            "machin"
+        ]
+    },
+    {
+        "X_pattern": [
+            2
+        ],
+        "Y_pattern": [
+            316
+        ],
+        "supp": 7,
+        "conf": 0.09090909090909091,
+        "labeled_X": [
+            "machin"
+        ],
+        "labeled_Y": [
+            "svm"
+        ]
+    },
+    {
+        "X_pattern": [
+            111
+        ],
+        "Y_pattern": [
+            1283
+        ],
+        "supp": 5,
+        "conf": 0.06493506493506493,
+        "labeled_X": [
+            "structur"
+        ],
+        "labeled_Y": [
+            "equat"
+        ]
+    },
+    {
+        "X_pattern": [
+            367
+        ],
+        "Y_pattern": [
+            111
+        ],
+        "supp": 5,
+        "conf": 0.8333333333333334,
+        "labeled_X": [
+            "link"
+        ],
+        "labeled_Y": [
+            "structur"
+        ]
+    },
+    {
+        "X_pattern": [
+            125
+        ],
+        "Y_pattern": [
+            111
+        ],
+        "supp": 7,
+        "conf": 0.1590909090909091,
+        "labeled_X": [
+            "network"
+        ],
+        "labeled_Y": [
+            "structur"
+        ]
+    },
+    {
+        "X_pattern": [
+            28
+        ],
+        "Y_pattern": [
+            8
+        ],
+        "supp": 5,
+        "conf": 0.35714285714285715,
+        "labeled_X": [
+            "quadrat"
+        ],
+        "labeled_Y": [
+            "optim"
+        ]
+    },
+    {
+        "X_pattern": [
+            787
+        ],
+        "Y_pattern": [
+            8
+        ],
+        "supp": 5,
+        "conf": 0.2777777777777778,
+        "labeled_X": [
+            "bay"
+        ],
+        "labeled_Y": [
+            "optim"
+        ]
+    },
+    {
+        "X_pattern": [
+            588
+        ],
+        "Y_pattern": [
+            8
+        ],
+        "supp": 4,
+        "conf": 0.5,
+        "labeled_X": [
+            "sub"
+        ],
+        "labeled_Y": [
+            "optim"
+        ]
+    },
+    {
+        "X_pattern": [
+            214
+        ],
+        "Y_pattern": [
+            82
+        ],
+        "supp": 6,
+        "conf": 0.08108108108108109,
+        "labeled_X": [
+            "propos"
+        ],
+        "labeled_Y": [
+            "novel"
+        ]
+    },
+    {
+        "X_pattern": [
+            78
+        ],
+        "Y_pattern": [
+            214
+        ],
+        "supp": 8,
+        "conf": 0.1111111111111111,
+        "labeled_X": [
+            "paper"
+        ],
+        "labeled_Y": [
+            "propos"
+        ]
+    },
+    {
+        "X_pattern": [
+            137
+        ],
+        "Y_pattern": [
+            127
+        ],
+        "supp": 5,
+        "conf": 0.35714285714285715,
+        "labeled_X": [
+            "likelihood"
+        ],
+        "labeled_Y": [
+            "estim"
+        ]
+    },
+    {
+        "X_pattern": [
+            78
+        ],
+        "Y_pattern": [
+            75
+        ],
+        "supp": 13,
+        "conf": 0.18055555555555555,
+        "labeled_X": [
+            "paper"
+        ],
+        "labeled_Y": [
+            "present"
+        ]
+    },
+    {
+        "X_pattern": [
+            78
+        ],
+        "Y_pattern": [
+            23
+        ],
+        "supp": 11,
+        "conf": 0.1527777777777778,
+        "labeled_X": [
+            "paper"
+        ],
+        "labeled_Y": [
+            "new"
+        ]
+    },
+    {
+        "X_pattern": [
+            78
+        ],
+        "Y_pattern": [
+            577
+        ],
+        "supp": 6,
+        "conf": 0.08333333333333333,
+        "labeled_X": [
+            "paper"
+        ],
+        "labeled_Y": [
+            "describ"
+        ]
+    },
+    {
+        "X_pattern": [
+            387
+        ],
+        "Y_pattern": [
+            23
+        ],
+        "supp": 7,
+        "conf": 0.18421052631578946,
+        "labeled_X": [
+            "introduc"
+        ],
+        "labeled_Y": [
+            "new"
+        ]
+    },
+    {
+        "X_pattern": [
+            622
+        ],
+        "Y_pattern": [
+            118
+        ],
+        "supp": 8,
+        "conf": 0.8888888888888888,
+        "labeled_X": [
+            "lower"
+        ],
+        "labeled_Y": [
+            "bound"
+        ]
+    },
+    {
+        "X_pattern": [
+            620
+        ],
+        "Y_pattern": [
+            118
+        ],
+        "supp": 5,
+        "conf": 1.0,
+        "labeled_X": [
+            "upper"
+        ],
+        "labeled_Y": [
+            "bound"
+        ]
+    },
+    {
+        "X_pattern": [
+            143
+        ],
+        "Y_pattern": [
+            118
+        ],
+        "supp": 8,
+        "conf": 0.16326530612244897,
+        "labeled_X": [
+            "error"
+        ],
+        "labeled_Y": [
+            "bound"
+        ]
+    },
+    {
+        "X_pattern": [
+            221
+        ],
+        "Y_pattern": [
+            343
+        ],
+        "supp": 9,
+        "conf": 0.1323529411764706,
+        "labeled_X": [
+            "featur"
+        ],
+        "labeled_Y": [
+            "select"
+        ]
+    },
+    {
+        "X_pattern": [
+            221
+        ],
+        "Y_pattern": [
+            289
+        ],
+        "supp": 6,
+        "conf": 0.08823529411764706,
+        "labeled_X": [
+            "featur"
+        ],
+        "labeled_Y": [
+            "space"
+        ]
+    },
+    {
+        "X_pattern": [
+            400
+        ],
+        "Y_pattern": [
+            140
+        ],
+        "supp": 6,
+        "conf": 0.08823529411764706,
+        "labeled_X": [
+            "approxim"
+        ],
+        "labeled_Y": [
+            "infer"
+        ]
+    },
+    {
+        "X_pattern": [
+            400
+        ],
+        "Y_pattern": [
+            336
+        ],
+        "supp": 8,
+        "conf": 0.11764705882352941,
+        "labeled_X": [
+            "approxim"
+        ],
+        "labeled_Y": [
+            "solut"
+        ]
+    },
+    {
+        "X_pattern": [
+            1410
+        ],
+        "Y_pattern": [
+            225,
+            1410
+        ],
+        "supp": 6,
+        "conf": 0.8571428571428571,
+        "labeled_X": [
+            "refin"
+        ],
+        "labeled_Y": [
+            "kernel",
+            "refin"
+        ]
+    },
+    {
+        "X_pattern": [
+            225
+        ],
+        "Y_pattern": [
+            296,
+            289
+        ],
+        "supp": 5,
+        "conf": 0.07692307692307693,
+        "labeled_X": [
+            "kernel"
+        ],
+        "labeled_Y": [
+            "hilbert",
+            "space"
+        ]
+    },
+    {
+        "X_pattern": [
+            295
+        ],
+        "Y_pattern": [
+            225
+        ],
+        "supp": 5,
+        "conf": 0.8333333333333334,
+        "labeled_X": [
+            "reproduc"
+        ],
+        "labeled_Y": [
+            "kernel"
+        ]
+    },
+    {
+        "X_pattern": [
+            29
+        ],
+        "Y_pattern": [
+            5
+        ],
+        "supp": 9,
+        "conf": 0.14516129032258066,
+        "labeled_X": [
+            "linear"
+        ],
+        "labeled_Y": [
+            "program"
+        ]
+    },
+    {
+        "X_pattern": [
+            337
+        ],
+        "Y_pattern": [
+            29
+        ],
+        "supp": 6,
+        "conf": 0.16216216216216217,
+        "labeled_X": [
+            "non"
+        ],
+        "labeled_Y": [
+            "linear"
+        ]
+    },
+    {
+        "X_pattern": [
+            343
+        ],
+        "Y_pattern": [
+            154
+        ],
+        "supp": 5,
+        "conf": 0.08064516129032258,
+        "labeled_X": [
+            "select"
+        ],
+        "labeled_Y": [
+            "criterion"
+        ]
+    },
+    {
+        "X_pattern": [
+            62
+        ],
+        "Y_pattern": [
+            411
+        ],
+        "supp": 7,
+        "conf": 0.11475409836065574,
+        "labeled_X": [
+            "comput"
+        ],
+        "labeled_Y": [
+            "cost"
+        ]
+    },
+    {
+        "X_pattern": [
+            342
+        ],
+        "Y_pattern": [
+            62
+        ],
+        "supp": 7,
+        "conf": 0.11666666666666667,
+        "labeled_X": [
+            "effici"
+        ],
+        "labeled_Y": [
+            "comput"
+        ]
+    },
+    {
+        "X_pattern": [
+            15
+        ],
+        "Y_pattern": [
+            16
+        ],
+        "supp": 21,
+        "conf": 0.35,
+        "labeled_X": [
+            "larg"
+        ],
+        "labeled_Y": [
+            "scale"
+        ]
+    },
+    {
+        "X_pattern": [
+            1665
+        ],
+        "Y_pattern": [
+            342
+        ],
+        "supp": 7,
+        "conf": 0.5,
+        "labeled_X": [
+            "computation"
+        ],
+        "labeled_Y": [
+            "effici"
+        ]
+    },
+    {
+        "X_pattern": [
+            342
+        ],
+        "Y_pattern": [
+            178
+        ],
+        "supp": 7,
+        "conf": 0.11666666666666667,
+        "labeled_X": [
+            "effici"
+        ],
+        "labeled_Y": [
+            "implement"
+        ]
+    },
+    {
+        "X_pattern": [
+            237
+        ],
+        "Y_pattern": [
+            65
+        ],
+        "supp": 5,
+        "conf": 0.45454545454545453,
+        "labeled_X": [
+            "multi"
+        ],
+        "labeled_Y": [
+            "class"
+        ]
+    },
+    {
+        "X_pattern": [
+            1061
+        ],
+        "Y_pattern": [
+            65
+        ],
+        "supp": 4,
+        "conf": 0.3333333333333333,
+        "labeled_X": [
+            "equival"
+        ],
+        "labeled_Y": [
+            "class"
+        ]
+    },
+    {
+        "X_pattern": [
+            1539
+        ],
+        "Y_pattern": [
+            910,
+            174
+        ],
+        "supp": 11,
+        "conf": 0.8461538461538461,
+        "labeled_X": [
+            "max"
+        ],
+        "labeled_Y": [
+            "sum",
+            "classifi"
+        ]
+    },
+    {
+        "X_pattern": [
+            787
+        ],
+        "Y_pattern": [
+            174
+        ],
+        "supp": 7,
+        "conf": 0.3888888888888889,
+        "labeled_X": [
+            "bay"
+        ],
+        "labeled_Y": [
+            "classifi"
+        ]
+    },
+    {
+        "X_pattern": [
+            613
+        ],
+        "Y_pattern": [
+            151
+        ],
+        "supp": 15,
+        "conf": 0.6818181818181818,
+        "labeled_X": [
+            "hidden"
+        ],
+        "labeled_Y": [
+            "variabl"
+        ]
+    },
+    {
+        "X_pattern": [
+            3457
+        ],
+        "Y_pattern": [
+            448
+        ],
+        "supp": 6,
+        "conf": 1.0,
+        "labeled_X": [
+            "conform"
+        ],
+        "labeled_Y": [
+            "predict"
+        ]
+    },
+    {
+        "X_pattern": [
+            448
+        ],
+        "Y_pattern": [
+            313
+        ],
+        "supp": 8,
+        "conf": 0.14545454545454545,
+        "labeled_X": [
+            "predict"
+        ],
+        "labeled_Y": [
+            "label"
+        ]
+    },
+    {
+        "X_pattern": [
+            937
+        ],
+        "Y_pattern": [
+            146
+        ],
+        "supp": 5,
+        "conf": 0.8333333333333334,
+        "labeled_X": [
+            "joint"
+        ],
+        "labeled_Y": [
+            "distribut"
+        ]
+    },
+    {
+        "X_pattern": [
+            51
+        ],
+        "Y_pattern": [
+            656
+        ],
+        "supp": 5,
+        "conf": 0.10416666666666667,
+        "labeled_X": [
+            "train"
+        ],
+        "labeled_Y": [
+            "point"
+        ]
+    },
+    {
+        "X_pattern": [
+            268
+        ],
+        "Y_pattern": [
+            250
+        ],
+        "supp": 8,
+        "conf": 0.1702127659574468,
+        "labeled_X": [
+            "converg"
+        ],
+        "labeled_Y": [
+            "rate"
+        ]
+    },
+    {
+        "X_pattern": [
+            268
+        ],
+        "Y_pattern": [
+            1889
+        ],
+        "supp": 4,
+        "conf": 0.0851063829787234,
+        "labeled_X": [
+            "converg"
+        ],
+        "labeled_Y": [
+            "proof"
+        ]
+    },
+    {
+        "X_pattern": [
+            267
+        ],
+        "Y_pattern": [
+            268
+        ],
+        "supp": 5,
+        "conf": 0.625,
+        "labeled_X": [
+            "uniform"
+        ],
+        "labeled_Y": [
+            "converg"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            519,
+            323
+        ],
+        "supp": 31,
+        "conf": 0.004230349344978166,
+        "labeled_X": [],
+        "labeled_Y": [
+            "support",
+            "vector"
+        ]
+    },
+    {
+        "X_pattern": [
+            883
+        ],
+        "Y_pattern": [
+            42,
+            2176,
+            1060
+        ],
+        "supp": 4,
+        "conf": 0.6666666666666666,
+        "labeled_X": [
+            "tempor"
+        ],
+        "labeled_Y": [
+            "differ",
+            "actor",
+            "critic"
+        ]
+    },
+    {
+        "X_pattern": [
+            718
+        ],
+        "Y_pattern": [
+            460
+        ],
+        "supp": 4,
+        "conf": 0.8,
+        "labeled_X": [
+            "symmetr"
+        ],
+        "labeled_Y": [
+            "loss"
+        ]
+    },
+    {
+        "X_pattern": [
+            429
+        ],
+        "Y_pattern": [
+            460
+        ],
+        "supp": 7,
+        "conf": 0.21212121212121213,
+        "labeled_X": [
+            "minim"
+        ],
+        "labeled_Y": [
+            "loss"
+        ]
+    },
+    {
+        "X_pattern": [
+            338
+        ],
+        "Y_pattern": [
+            460
+        ],
+        "supp": 6,
+        "conf": 0.23076923076923078,
+        "labeled_X": [
+            "convex"
+        ],
+        "labeled_Y": [
+            "loss"
+        ]
+    },
+    {
+        "X_pattern": [
+            1275
+        ],
+        "Y_pattern": [
+            63
+        ],
+        "supp": 7,
+        "conf": 0.875,
+        "labeled_X": [
+            "run"
+        ],
+        "labeled_Y": [
+            "time"
+        ]
+    },
+    {
+        "X_pattern": [
+            120
+        ],
+        "Y_pattern": [
+            63
+        ],
+        "supp": 5,
+        "conf": 0.5,
+        "labeled_X": [
+            "polynomi"
+        ],
+        "labeled_Y": [
+            "time"
+        ]
+    },
+    {
+        "X_pattern": [
+            63
+        ],
+        "Y_pattern": [
+            341
+        ],
+        "supp": 5,
+        "conf": 0.1111111111111111,
+        "labeled_X": [
+            "time"
+        ],
+        "labeled_Y": [
+            "seri"
+        ]
+    },
+    {
+        "X_pattern": [
+            63
+        ],
+        "Y_pattern": [
+            16
+        ],
+        "supp": 5,
+        "conf": 0.1111111111111111,
+        "labeled_X": [
+            "time"
+        ],
+        "labeled_Y": [
+            "scale"
+        ]
+    },
+    {
+        "X_pattern": [
+            1046
+        ],
+        "Y_pattern": [
+            285
+        ],
+        "supp": 5,
+        "conf": 0.7142857142857143,
+        "labeled_X": [
+            "miss"
+        ],
+        "labeled_Y": [
+            "valu"
+        ]
+    },
+    {
+        "X_pattern": [
+            522
+        ],
+        "Y_pattern": [
+            521
+        ],
+        "supp": 6,
+        "conf": 0.6666666666666666,
+        "labeled_X": [
+            "logist"
+        ],
+        "labeled_Y": [
+            "regress"
+        ]
+    },
+    {
+        "X_pattern": [
+            430
+        ],
+        "Y_pattern": [
+            125
+        ],
+        "supp": 8,
+        "conf": 0.8888888888888888,
+        "labeled_X": [
+            "neural"
+        ],
+        "labeled_Y": [
+            "network"
+        ]
+    },
+    {
+        "X_pattern": [
+            2617
+        ],
+        "Y_pattern": [
+            125
+        ],
+        "supp": 5,
+        "conf": 1.0,
+        "labeled_X": [
+            "kbann"
+        ],
+        "labeled_Y": [
+            "network"
+        ]
+    },
+    {
+        "X_pattern": [
+            131
+        ],
+        "Y_pattern": [
+            125
+        ],
+        "supp": 8,
+        "conf": 0.24242424242424243,
+        "labeled_X": [
+            "bayesian"
+        ],
+        "labeled_Y": [
+            "network"
+        ]
+    },
+    {
+        "X_pattern": [
+            132
+        ],
+        "Y_pattern": [
+            125
+        ],
+        "supp": 8,
+        "conf": 0.2962962962962963,
+        "labeled_X": [
+            "markov"
+        ],
+        "labeled_Y": [
+            "network"
+        ]
+    },
+    {
+        "X_pattern": [
+            420
+        ],
+        "Y_pattern": [
+            213
+        ],
+        "supp": 9,
+        "conf": 1.0,
+        "labeled_X": [
+            "worst"
+        ],
+        "labeled_Y": [
+            "case"
+        ]
+    },
+    {
+        "X_pattern": [
+            13
+        ],
+        "Y_pattern": [
+            213
+        ],
+        "supp": 7,
+        "conf": 0.4375,
+        "labeled_X": [
+            "special"
+        ],
+        "labeled_Y": [
+            "case"
+        ]
+    },
+    {
+        "X_pattern": [
+            469
+        ],
+        "Y_pattern": [
+            368
+        ],
+        "supp": 8,
+        "conf": 0.6153846153846154,
+        "labeled_X": [
+            "relationship"
+        ],
+        "labeled_Y": [
+            "between"
+        ]
+    },
+    {
+        "X_pattern": [
+            1059
+        ],
+        "Y_pattern": [
+            289
+        ],
+        "supp": 4,
+        "conf": 0.5,
+        "labeled_X": [
+            "metric"
+        ],
+        "labeled_Y": [
+            "space"
+        ]
+    },
+    {
+        "X_pattern": [
+            822
+        ],
+        "Y_pattern": [
+            289
+        ],
+        "supp": 4,
+        "conf": 0.21052631578947367,
+        "labeled_X": [
+            "action"
+        ],
+        "labeled_Y": [
+            "space"
+        ]
+    },
+    {
+        "X_pattern": [
+            1310
+        ],
+        "Y_pattern": [
+            772,
+            1310
+        ],
+        "supp": 5,
+        "conf": 0.12195121951219512,
+        "labeled_X": [
+            "boost"
+        ],
+        "labeled_Y": [
+            "spars",
+            "boost"
+        ]
+    },
+    {
+        "X_pattern": [
+            16
+        ],
+        "Y_pattern": [
+            1789
+        ],
+        "supp": 4,
+        "conf": 0.10256410256410256,
+        "labeled_X": [
+            "scale"
+        ],
+        "labeled_Y": [
+            "linearli"
+        ]
+    },
+    {
+        "X_pattern": [
+            191
+        ],
+        "Y_pattern": [
+            408
+        ],
+        "supp": 7,
+        "conf": 0.3333333333333333,
+        "labeled_X": [
+            "under"
+        ],
+        "labeled_Y": [
+            "condit"
+        ]
+    },
+    {
+        "X_pattern": [
+            408
+        ],
+        "Y_pattern": [
+            382
+        ],
+        "supp": 5,
+        "conf": 0.1282051282051282,
+        "labeled_X": [
+            "condit"
+        ],
+        "labeled_Y": [
+            "independ"
+        ]
+    },
+    {
+        "X_pattern": [
+            1100
+        ],
+        "Y_pattern": [
+            227
+        ],
+        "supp": 6,
+        "conf": 0.46153846153846156,
+        "labeled_X": [
+            "word"
+        ],
+        "labeled_Y": [
+            "represent"
+        ]
+    },
+    {
+        "X_pattern": [
+            67
+        ],
+        "Y_pattern": [
+            128
+        ],
+        "supp": 7,
+        "conf": 0.1891891891891892,
+        "labeled_X": [
+            "well"
+        ],
+        "labeled_Y": [
+            "known"
+        ]
+    },
+    {
+        "X_pattern": [
+            173
+        ],
+        "Y_pattern": [
+            503
+        ],
+        "supp": 4,
+        "conf": 0.10810810810810811,
+        "labeled_X": [
+            "compar"
+        ],
+        "labeled_Y": [
+            "favor"
+        ]
+    },
+    {
+        "X_pattern": [
+            337
+        ],
+        "Y_pattern": [
+            755,
+            210
+        ],
+        "supp": 4,
+        "conf": 0.10810810810810811,
+        "labeled_X": [
+            "non"
+        ],
+        "labeled_Y": [
+            "neg",
+            "matrix"
+        ]
+    },
+    {
+        "X_pattern": [
+            337
+        ],
+        "Y_pattern": [
+            1013
+        ],
+        "supp": 5,
+        "conf": 0.13513513513513514,
+        "labeled_X": [
+            "non"
+        ],
+        "labeled_Y": [
+            "parametr"
+        ]
+    },
+    {
+        "X_pattern": [
+            256
+        ],
+        "Y_pattern": [
+            45
+        ],
+        "supp": 4,
+        "conf": 0.26666666666666666,
+        "labeled_X": [
+            "expect"
+        ],
+        "labeled_Y": [
+            "accuraci"
+        ]
+    },
+    {
+        "X_pattern": [
+            208
+        ],
+        "Y_pattern": [
+            209
+        ],
+        "supp": 7,
+        "conf": 0.5,
+        "labeled_X": [
+            "low"
+        ],
+        "labeled_Y": [
+            "rank"
+        ]
+    },
+    {
+        "X_pattern": [
+            248
+        ],
+        "Y_pattern": [
+            209
+        ],
+        "supp": 3,
+        "conf": 1.0,
+        "labeled_X": [
+            "bipartit"
+        ],
+        "labeled_Y": [
+            "rank"
+        ]
+    },
+    {
+        "X_pattern": [
+            1634
+        ],
+        "Y_pattern": [
+            110
+        ],
+        "supp": 6,
+        "conf": 0.8571428571428571,
+        "labeled_X": [
+            "tune"
+        ],
+        "labeled_Y": [
+            "paramet"
+        ]
+    },
+    {
+        "X_pattern": [
+            1116
+        ],
+        "Y_pattern": [
+            345
+        ],
+        "supp": 4,
+        "conf": 1.0,
+        "labeled_X": [
+            "dirichlet"
+        ],
+        "labeled_Y": [
+            "process"
+        ]
+    },
+    {
+        "X_pattern": [
+            751
+        ],
+        "Y_pattern": [
+            345
+        ],
+        "supp": 6,
+        "conf": 0.25,
+        "labeled_X": [
+            "gaussian"
+        ],
+        "labeled_Y": [
+            "process"
+        ]
+    },
+    {
+        "X_pattern": [
+            463
+        ],
+        "Y_pattern": [
+            418
+        ],
+        "supp": 6,
+        "conf": 0.2727272727272727,
+        "labeled_X": [
+            "high"
+        ],
+        "labeled_Y": [
+            "probabl"
+        ]
+    },
+    {
+        "X_pattern": [
+            422
+        ],
+        "Y_pattern": [
+            418
+        ],
+        "supp": 3,
+        "conf": 0.75,
+        "labeled_X": [
+            "minimax"
+        ],
+        "labeled_Y": [
+            "probabl"
+        ]
+    },
+    {
+        "X_pattern": [
+            31
+        ],
+        "Y_pattern": [
+            1362,
+            866
+        ],
+        "supp": 4,
+        "conf": 0.12121212121212122,
+        "labeled_X": [
+            "order"
+        ],
+        "labeled_Y": [
+            "partial",
+            "correl"
+        ]
+    },
+    {
+        "X_pattern": [
+            398
+        ],
+        "Y_pattern": [
+            131
+        ],
+        "supp": 7,
+        "conf": 0.4375,
+        "labeled_X": [
+            "variat"
+        ],
+        "labeled_Y": [
+            "bayesian"
+        ]
+    },
+    {
+        "X_pattern": [
+            405
+        ],
+        "Y_pattern": [
+            429
+        ],
+        "supp": 4,
+        "conf": 0.5,
+        "labeled_X": [
+            "risk"
+        ],
+        "labeled_Y": [
+            "minim"
+        ]
+    },
+    {
+        "X_pattern": [
+            388
+        ],
+        "Y_pattern": [
+            150
+        ],
+        "supp": 4,
+        "conf": 0.26666666666666666,
+        "labeled_X": [
+            "varianc"
+        ],
+        "labeled_Y": [
+            "depend"
+        ]
+    },
+    {
+        "X_pattern": [
+            250
+        ],
+        "Y_pattern": [
+            2729
+        ],
+        "supp": 5,
+        "conf": 0.15625,
+        "labeled_X": [
+            "rate"
+        ],
+        "labeled_Y": [
+            "certifi"
+        ]
+    },
+    {
+        "X_pattern": [
+            1068
+        ],
+        "Y_pattern": [
+            370
+        ],
+        "supp": 7,
+        "conf": 0.4666666666666667,
+        "labeled_X": [
+            "discrimin"
+        ],
+        "labeled_Y": [
+            "analysi"
+        ]
+    },
+    {
+        "X_pattern": [
+            528
+        ],
+        "Y_pattern": [
+            370
+        ],
+        "supp": 6,
+        "conf": 0.23076923076923078,
+        "labeled_X": [
+            "compon"
+        ],
+        "labeled_Y": [
+            "analysi"
+        ]
+    },
+    {
+        "X_pattern": [
+            108
+        ],
+        "Y_pattern": [
+            484
+        ],
+        "supp": 6,
+        "conf": 0.1935483870967742,
+        "labeled_X": [
+            "sampl"
+        ],
+        "labeled_Y": [
+            "size"
+        ]
+    },
+    {
+        "X_pattern": [
+            263
+        ],
+        "Y_pattern": [
+            247
+        ],
+        "supp": 7,
+        "conf": 0.23333333333333334,
+        "labeled_X": [
+            "empir"
+        ],
+        "labeled_Y": [
+            "evalu"
+        ]
+    },
+    {
+        "X_pattern": [
+            287
+        ],
+        "Y_pattern": [
+            875
+        ],
+        "supp": 5,
+        "conf": 0.16666666666666666,
+        "labeled_X": [
+            "over"
+        ],
+        "labeled_Y": [
+            "fit"
+        ]
+    },
+    {
+        "X_pattern": [
+            313
+        ],
+        "Y_pattern": [
+            288
+        ],
+        "supp": 6,
+        "conf": 0.21428571428571427,
+        "labeled_X": [
+            "label"
+        ],
+        "labeled_Y": [
+            "instanc"
+        ]
+    },
+    {
+        "X_pattern": [
+            3176
+        ],
+        "Y_pattern": [
+            140
+        ],
+        "supp": 4,
+        "conf": 0.5,
+        "labeled_X": [
+            "cautiou"
+        ],
+        "labeled_Y": [
+            "infer"
+        ]
+    },
+    {
+        "X_pattern": [
+            447
+        ],
+        "Y_pattern": [
+            601
+        ],
+        "supp": 4,
+        "conf": 0.13793103448275862,
+        "labeled_X": [
+            "first"
+        ],
+        "labeled_Y": [
+            "stage"
+        ]
+    },
+    {
+        "X_pattern": [
+            230
+        ],
+        "Y_pattern": [
+            278
+        ],
+        "supp": 5,
+        "conf": 0.17857142857142858,
+        "labeled_X": [
+            "test"
+        ],
+        "labeled_Y": [
+            "comparison"
+        ]
+    },
+    {
+        "X_pattern": [
+            132
+        ],
+        "Y_pattern": [
+            438
+        ],
+        "supp": 4,
+        "conf": 0.14814814814814814,
+        "labeled_X": [
+            "markov"
+        ],
+        "labeled_Y": [
+            "blanket"
+        ]
+    },
+    {
+        "X_pattern": [
+            179
+        ],
+        "Y_pattern": [
+            178
+        ],
+        "supp": 3,
+        "conf": 0.5,
+        "labeled_X": [
+            "easi"
+        ],
+        "labeled_Y": [
+            "implement"
+        ]
+    },
+    {
+        "X_pattern": [
+            357
+        ],
+        "Y_pattern": [
+            358
+        ],
+        "supp": 15,
+        "conf": 0.5555555555555556,
+        "labeled_X": [
+            "state"
+        ],
+        "labeled_Y": [
+            "art"
+        ]
+    },
+    {
+        "X_pattern": [
+            463
+        ],
+        "Y_pattern": [
+            921
+        ],
+        "supp": 13,
+        "conf": 0.5909090909090909,
+        "labeled_X": [
+            "high"
+        ],
+        "labeled_Y": [
+            "dimension"
+        ]
+    },
+    {
+        "X_pattern": [
+            921
+        ],
+        "Y_pattern": [
+            360
+        ],
+        "supp": 4,
+        "conf": 0.14814814814814814,
+        "labeled_X": [
+            "dimension"
+        ],
+        "labeled_Y": [
+            "reduct"
+        ]
+    },
+    {
+        "X_pattern": [
+            436
+        ],
+        "Y_pattern": [
+            117
+        ],
+        "supp": 5,
+        "conf": 0.45454545454545453,
+        "labeled_X": [
+            "direct"
+        ],
+        "labeled_Y": [
+            "graph"
+        ]
+    },
+    {
+        "X_pattern": [
+            1100
+        ],
+        "Y_pattern": [
+            175
+        ],
+        "supp": 4,
+        "conf": 0.3076923076923077,
+        "labeled_X": [
+            "word"
+        ],
+        "labeled_Y": [
+            "cluster"
+        ]
+    },
+    {
+        "X_pattern": [
+            210
+        ],
+        "Y_pattern": [
+            116
+        ],
+        "supp": 6,
+        "conf": 0.23076923076923078,
+        "labeled_X": [
+            "matrix"
+        ],
+        "labeled_Y": [
+            "factor"
+        ]
+    },
+    {
+        "X_pattern": [
+            218
+        ],
+        "Y_pattern": [
+            1197
+        ],
+        "supp": 3,
+        "conf": 0.11538461538461539,
+        "labeled_X": [
+            "inform"
+        ],
+        "labeled_Y": [
+            "bottleneck"
+        ]
+    },
+    {
+        "X_pattern": [
+            218
+        ],
+        "Y_pattern": [
+            607,
+            364
+        ],
+        "supp": 4,
+        "conf": 0.15384615384615385,
+        "labeled_X": [
+            "inform"
+        ],
+        "labeled_Y": [
+            "theoret",
+            "measur"
+        ]
+    },
+    {
+        "X_pattern": [
+            284
+        ],
+        "Y_pattern": [
+            415
+        ],
+        "supp": 16,
+        "conf": 0.6153846153846154,
+        "labeled_X": [
+            "real"
+        ],
+        "labeled_Y": [
+            "world"
+        ]
+    },
+    {
+        "X_pattern": [
+            596
+        ],
+        "Y_pattern": [
+            284
+        ],
+        "supp": 5,
+        "conf": 0.5555555555555556,
+        "labeled_X": [
+            "synthet"
+        ],
+        "labeled_Y": [
+            "real"
+        ]
+    },
+    {
+        "X_pattern": [
+            284
+        ],
+        "Y_pattern": [
+            96
+        ],
+        "supp": 3,
+        "conf": 0.11538461538461539,
+        "labeled_X": [
+            "real"
+        ],
+        "labeled_Y": [
+            "life"
+        ]
+    },
+    {
+        "X_pattern": [
+            338
+        ],
+        "Y_pattern": [
+            28
+        ],
+        "supp": 4,
+        "conf": 0.15384615384615385,
+        "labeled_X": [
+            "convex"
+        ],
+        "labeled_Y": [
+            "quadrat"
+        ]
+    },
+    {
+        "X_pattern": [
+            773
+        ],
+        "Y_pattern": [
+            528
+        ],
+        "supp": 3,
+        "conf": 1.0,
+        "labeled_X": [
+            "princip"
+        ],
+        "labeled_Y": [
+            "compon"
+        ]
+    },
+    {
+        "X_pattern": [
+            112
+        ],
+        "Y_pattern": [
+            154
+        ],
+        "supp": 4,
+        "conf": 0.25,
+        "labeled_X": [
+            "graphic"
+        ],
+        "labeled_Y": [
+            "criterion"
+        ]
+    },
+    {
+        "X_pattern": [
+            970
+        ],
+        "Y_pattern": [
+            971
+        ],
+        "supp": 6,
+        "conf": 0.24,
+        "labeled_X": [
+            "gradient"
+        ],
+        "labeled_Y": [
+            "descent"
+        ]
+    },
+    {
+        "X_pattern": [
+            47
+        ],
+        "Y_pattern": [
+            512
+        ],
+        "supp": 3,
+        "conf": 0.13043478260869565,
+        "labeled_X": [
+            "robust"
+        ],
+        "labeled_Y": [
+            "against"
+        ]
+    },
+    {
+        "X_pattern": [
+            136
+        ],
+        "Y_pattern": [
+            137
+        ],
+        "supp": 8,
+        "conf": 0.34782608695652173,
+        "labeled_X": [
+            "maximum"
+        ],
+        "labeled_Y": [
+            "likelihood"
+        ]
+    },
+    {
+        "X_pattern": [
+            136
+        ],
+        "Y_pattern": [
+            555
+        ],
+        "supp": 4,
+        "conf": 0.17391304347826086,
+        "labeled_X": [
+            "maximum"
+        ],
+        "labeled_Y": [
+            "entropi"
+        ]
+    },
+    {
+        "X_pattern": [
+            4
+        ],
+        "Y_pattern": [
+            5
+        ],
+        "supp": 6,
+        "conf": 0.6666666666666666,
+        "labeled_X": [
+            "mathemat"
+        ],
+        "labeled_Y": [
+            "program"
+        ]
+    },
+    {
+        "X_pattern": [
+            432
+        ],
+        "Y_pattern": [
+            2150
+        ],
+        "supp": 4,
+        "conf": 0.18181818181818182,
+        "labeled_X": [
+            "causal"
+        ],
+        "labeled_Y": [
+            "diagram"
+        ]
+    },
+    {
+        "X_pattern": [
+            759
+        ],
+        "Y_pattern": [
+            1
+        ],
+        "supp": 5,
+        "conf": 0.22727272727272727,
+        "labeled_X": [
+            "random"
+        ],
+        "labeled_Y": [
+            "field"
+        ]
+    },
+    {
+        "X_pattern": [
+            759
+        ],
+        "Y_pattern": [
+            1298
+        ],
+        "supp": 4,
+        "conf": 0.18181818181818182,
+        "labeled_X": [
+            "random"
+        ],
+        "labeled_Y": [
+            "forest"
+        ]
+    },
+    {
+        "X_pattern": [
+            347
+        ],
+        "Y_pattern": [
+            1033
+        ],
+        "supp": 5,
+        "conf": 0.23809523809523808,
+        "labeled_X": [
+            "natur"
+        ],
+        "labeled_Y": [
+            "languag"
+        ]
+    },
+    {
+        "X_pattern": [
+            205
+        ],
+        "Y_pattern": [
+            1107
+        ],
+        "supp": 4,
+        "conf": 0.2,
+        "labeled_X": [
+            "object"
+        ],
+        "labeled_Y": [
+            "recognit"
+        ]
+    },
+    {
+        "X_pattern": [
+            369
+        ],
+        "Y_pattern": [
+            278
+        ],
+        "supp": 4,
+        "conf": 0.2857142857142857,
+        "labeled_X": [
+            "pair"
+        ],
+        "labeled_Y": [
+            "comparison"
+        ]
+    },
+    {
+        "X_pattern": [
+            2022
+        ],
+        "Y_pattern": [
+            187
+        ],
+        "supp": 3,
+        "conf": 1.0,
+        "labeled_X": [
+            "publicli"
+        ],
+        "labeled_Y": [
+            "avail"
+        ]
+    },
+    {
+        "X_pattern": [
+            537
+        ],
+        "Y_pattern": [
+            538
+        ],
+        "supp": 5,
+        "conf": 0.2777777777777778,
+        "labeled_X": [
+            "wide"
+        ],
+        "labeled_Y": [
+            "rang"
+        ]
+    },
+    {
+        "X_pattern": [
+            1488
+        ],
+        "Y_pattern": [
+            787
+        ],
+        "supp": 9,
+        "conf": 0.8181818181818182,
+        "labeled_X": [
+            "naiv"
+        ],
+        "labeled_Y": [
+            "bay"
+        ]
+    },
+    {
+        "X_pattern": [
+            2333
+        ],
+        "Y_pattern": [
+            514
+        ],
+        "supp": 3,
+        "conf": 0.6,
+        "labeled_X": [
+            "loop"
+        ],
+        "labeled_Y": [
+            "correct"
+        ]
+    },
+    {
+        "X_pattern": [
+            348
+        ],
+        "Y_pattern": [
+            807
+        ],
+        "supp": 3,
+        "conf": 0.2,
+        "labeled_X": [
+            "stochast"
+        ],
+        "labeled_Y": [
+            "game"
+        ]
+    },
+    {
+        "X_pattern": [
+            1526
+        ],
+        "Y_pattern": [
+            388
+        ],
+        "supp": 4,
+        "conf": 0.5,
+        "labeled_X": [
+            "bia"
+        ],
+        "labeled_Y": [
+            "varianc"
+        ]
+    },
+    {
+        "X_pattern": [
+            1006
+        ],
+        "Y_pattern": [
+            1274
+        ],
+        "supp": 4,
+        "conf": 0.26666666666666666,
+        "labeled_X": [
+            "yield"
+        ],
+        "labeled_Y": [
+            "faster"
+        ]
+    },
+    {
+        "X_pattern": [
+            616
+        ],
+        "Y_pattern": [
+            137
+        ],
+        "supp": 3,
+        "conf": 0.25,
+        "labeled_X": [
+            "log"
+        ],
+        "labeled_Y": [
+            "likelihood"
+        ]
+    },
+    {
+        "X_pattern": [
+            1665
+        ],
+        "Y_pattern": [
+            426
+        ],
+        "supp": 3,
+        "conf": 0.21428571428571427,
+        "labeled_X": [
+            "computation"
+        ],
+        "labeled_Y": [
+            "expens"
+        ]
+    },
+    {
+        "X_pattern": [
+            417
+        ],
+        "Y_pattern": [
+            1351
+        ],
+        "supp": 3,
+        "conf": 0.23076923076923078,
+        "labeled_X": [
+            "prior"
+        ],
+        "labeled_Y": [
+            "knowledg"
+        ]
+    },
+    {
+        "X_pattern": [
+            597
+        ],
+        "Y_pattern": [
+            3219
+        ],
+        "supp": 3,
+        "conf": 0.23076923076923078,
+        "labeled_X": [
+            "text"
+        ],
+        "labeled_Y": [
+            "chunk"
+        ]
+    },
+    {
+        "X_pattern": [
+            2565
+        ],
+        "Y_pattern": [
+            621
+        ],
+        "supp": 3,
+        "conf": 1.0,
+        "labeled_X": [
+            "pyramid"
+        ],
+        "labeled_Y": [
+            "match"
+        ]
+    },
+    {
+        "X_pattern": [
+            291
+        ],
+        "Y_pattern": [
+            1274
+        ],
+        "supp": 3,
+        "conf": 0.42857142857142855,
+        "labeled_X": [
+            "much"
+        ],
+        "labeled_Y": [
+            "faster"
+        ]
+    },
+    {
+        "X_pattern": [
+            667
+        ],
+        "Y_pattern": [
+            1539
+        ],
+        "supp": 3,
+        "conf": 0.6,
+        "labeled_X": [
+            "subclass"
+        ],
+        "labeled_Y": [
+            "max"
+        ]
+    },
+    {
+        "X_pattern": [
+            306
+        ],
+        "Y_pattern": [
+            794
+        ],
+        "supp": 3,
+        "conf": 0.2727272727272727,
+        "labeled_X": [
+            "take"
+        ],
+        "labeled_Y": [
+            "account"
+        ]
+    },
+    {
+        "X_pattern": [
+            436
+        ],
+        "Y_pattern": [
+            623
+        ],
+        "supp": 3,
+        "conf": 0.2727272727272727,
+        "labeled_X": [
+            "direct"
+        ],
+        "labeled_Y": [
+            "acycl"
+        ]
+    },
+    {
+        "X_pattern": [
+            1418
+        ],
+        "Y_pattern": [
+            1064
+        ],
+        "supp": 3,
+        "conf": 1.0,
+        "labeled_X": [
+            "extern"
+        ],
+        "labeled_Y": [
+            "intervent"
+        ]
+    },
+    {
+        "X_pattern": [
+            74
+        ],
+        "Y_pattern": [
+            1121
+        ],
+        "supp": 4,
+        "conf": 0.5714285714285714,
+        "labeled_X": [
+            "turn"
+        ],
+        "labeled_Y": [
+            "out"
+        ]
+    },
+    {
+        "X_pattern": [
+            1348
+        ],
+        "Y_pattern": [
+            1121
+        ],
+        "supp": 3,
+        "conf": 0.75,
+        "labeled_X": [
+            "leav"
+        ],
+        "labeled_Y": [
+            "out"
+        ]
+    },
+    {
+        "X_pattern": [
+            1490
+        ],
+        "Y_pattern": [
+            1488
+        ],
+        "supp": 3,
+        "conf": 1.0,
+        "labeled_X": [
+            "univari"
+        ],
+        "labeled_Y": [
+            "naiv"
+        ]
+    },
+    {
+        "X_pattern": [
+            312
+        ],
+        "Y_pattern": [
+            1107
+        ],
+        "supp": 3,
+        "conf": 0.3333333333333333,
+        "labeled_X": [
+            "pattern"
+        ],
+        "labeled_Y": [
+            "recognit"
+        ]
+    },
+    {
+        "X_pattern": [
+            202
+        ],
+        "Y_pattern": [
+            58
+        ],
+        "supp": 3,
+        "conf": 0.42857142857142855,
+        "labeled_X": [
+            "user"
+        ],
+        "labeled_Y": [
+            "prefer"
+        ]
+    },
+    {
+        "X_pattern": [
+            589
+        ],
+        "Y_pattern": [
+            821
+        ],
+        "supp": 4,
+        "conf": 0.4444444444444444,
+        "labeled_X": [
+            "averag"
+        ],
+        "labeled_Y": [
+            "reward"
+        ]
+    },
+    {
+        "X_pattern": [
+            1833
+        ],
+        "Y_pattern": [
+            969
+        ],
+        "supp": 5,
+        "conf": 0.8333333333333334,
+        "labeled_X": [
+            "belief"
+        ],
+        "labeled_Y": [
+            "propag"
+        ]
+    },
+    {
+        "X_pattern": [
+            2458
+        ],
+        "Y_pattern": [
+            441
+        ],
+        "supp": 4,
+        "conf": 1.0,
+        "labeled_X": [
+            "subgroup"
+        ],
+        "labeled_Y": [
+            "discoveri"
+        ]
+    },
+    {
+        "X_pattern": [
+            33
+        ],
+        "Y_pattern": [
+            599
+        ],
+        "supp": 3,
+        "conf": 0.6,
+        "labeled_X": [
+            "semi"
+        ],
+        "labeled_Y": [
+            "supervis"
+        ]
+    },
+    {
+        "X_pattern": [
+            1008
+        ],
+        "Y_pattern": [
+            662
+        ],
+        "supp": 3,
+        "conf": 0.75,
+        "labeled_X": [
+            "distort"
+        ],
+        "labeled_Y": [
+            "geometr"
+        ]
+    },
+    {
+        "X_pattern": [
+            670
+        ],
+        "Y_pattern": [
+            1361
+        ],
+        "supp": 3,
+        "conf": 0.375,
+        "labeled_X": [
+            "level"
+        ],
+        "labeled_Y": [
+            "aggreg"
+        ]
+    },
+    {
+        "X_pattern": [
+            927
+        ],
+        "Y_pattern": [
+            726
+        ],
+        "supp": 4,
+        "conf": 0.6666666666666666,
+        "labeled_X": [
+            "answer"
+        ],
+        "labeled_Y": [
+            "question"
+        ]
+    },
+    {
+        "X_pattern": [
+            1637
+        ],
+        "Y_pattern": [
+            3271
+        ],
+        "supp": 4,
+        "conf": 0.5,
+        "labeled_X": [
+            "shallow"
+        ],
+        "labeled_Y": [
+            "parser"
+        ]
+    },
+    {
+        "X_pattern": [
+            1637
+        ],
+        "Y_pattern": [
+            2011
+        ],
+        "supp": 3,
+        "conf": 0.375,
+        "labeled_X": [
+            "shallow"
+        ],
+        "labeled_Y": [
+            "pars"
+        ]
+    },
+    {
+        "X_pattern": [
+            516
+        ],
+        "Y_pattern": [
+            1501
+        ],
+        "supp": 3,
+        "conf": 0.42857142857142855,
+        "labeled_X": [
+            "individu"
+        ],
+        "labeled_Y": [
+            "skill"
+        ]
+    },
+    {
+        "X_pattern": [
+            1252
+        ],
+        "Y_pattern": [
+            1148
+        ],
+        "supp": 4,
+        "conf": 1.0,
+        "labeled_X": [
+            "cross"
+        ],
+        "labeled_Y": [
+            "valid"
+        ]
+    },
+    {
+        "X_pattern": [
+            3271
+        ],
+        "Y_pattern": [
+            1178
+        ],
+        "supp": 4,
+        "conf": 0.8,
+        "labeled_X": [
+            "parser"
+        ],
+        "labeled_Y": [
+            "nois"
+        ]
+    },
+    {
+        "X_pattern": [
+            1624
+        ],
+        "Y_pattern": [
+            803
+        ],
+        "supp": 3,
+        "conf": 0.42857142857142855,
+        "labeled_X": [
+            "product"
+        ],
+        "labeled_Y": [
+            "expert"
+        ]
+    },
+    {
+        "X_pattern": [
+            883
+        ],
+        "Y_pattern": [
+            532
+        ],
+        "supp": 3,
+        "conf": 0.5,
+        "labeled_X": [
+            "tempor"
+        ],
+        "labeled_Y": [
+            "signal"
+        ]
+    },
+    {
+        "X_pattern": [
+            2730
+        ],
+        "Y_pattern": [
+            2039
+        ],
+        "supp": 4,
+        "conf": 0.6666666666666666,
+        "labeled_X": [
+            "simon"
+        ],
+        "labeled_Y": [
+            "composit"
+        ]
+    },
+    {
+        "X_pattern": [
+            617
+        ],
+        "Y_pattern": [
+            619
+        ],
+        "supp": 4,
+        "conf": 0.8,
+        "labeled_X": [
+            "made"
+        ],
+        "labeled_Y": [
+            "round"
+        ]
+    },
+    {
+        "X_pattern": [
+            1307
+        ],
+        "Y_pattern": [
+            1243
+        ],
+        "supp": 3,
+        "conf": 0.75,
+        "labeled_X": [
+            "nearest"
+        ],
+        "labeled_Y": [
+            "neighbor"
+        ]
+    },
+    {
+        "X_pattern": [
+            273
+        ],
+        "Y_pattern": [
+            275
+        ],
+        "supp": 3,
+        "conf": 0.75,
+        "labeled_X": [
+            "plai"
+        ],
+        "labeled_Y": [
+            "role"
+        ]
+    },
+    {
+        "X_pattern": [
+            850
+        ],
+        "Y_pattern": [
+            638
+        ],
+        "supp": 3,
+        "conf": 0.75,
+        "labeled_X": [
+            "weak"
+        ],
+        "labeled_Y": [
+            "transit"
+        ]
+    },
+    {
+        "X_pattern": [
+            3059
+        ],
+        "Y_pattern": [
+            3060
+        ],
+        "supp": 3,
+        "conf": 1.0,
+        "labeled_X": [
+            "hush"
+        ],
+        "labeled_Y": [
+            "scovel"
+        ]
+    }
+]

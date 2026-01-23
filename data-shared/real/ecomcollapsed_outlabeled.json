@@ -1,0 +1,3776 @@
+[
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            12,
+            7
+        ],
+        "supp": 888,
+        "conf": 0.08628340080971661,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.clocks",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            37,
+            7
+        ],
+        "supp": 240,
+        "conf": 0.023319838056680163,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.tablet",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            4,
+            7
+        ],
+        "supp": 396,
+        "conf": 0.03847773279352227,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "computers.notebook",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            3,
+            7
+        ],
+        "supp": 400,
+        "conf": 0.038866396761133605,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.video.tv",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            5,
+            7,
+            5,
+            7
+        ],
+        "supp": 586,
+        "conf": 0.07591902834008098,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.headphone",
+            "electronics.smartphone",
+            "electronics.audio.headphone",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            5,
+            7,
+            5
+        ],
+        "supp": 574,
+        "conf": 0.07436437246963563,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.audio.headphone",
+            "electronics.smartphone",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            5,
+            7,
+            12
+        ],
+        "supp": 180,
+        "conf": 0.023319838056680163,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.audio.headphone",
+            "electronics.smartphone",
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            5,
+            7,
+            7
+        ],
+        "supp": 463,
+        "conf": 0.05998380566801619,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.audio.headphone",
+            "electronics.smartphone",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            12,
+            7,
+            12
+        ],
+        "supp": 579,
+        "conf": 0.07501214574898786,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.clocks",
+            "electronics.smartphone",
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            3,
+            7,
+            3
+        ],
+        "supp": 233,
+        "conf": 0.030186234817813764,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.video.tv",
+            "electronics.smartphone",
+            "electronics.video.tv"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            3,
+            7,
+            3,
+            7
+        ],
+        "supp": 231,
+        "conf": 0.029927125506072873,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.video.tv",
+            "electronics.smartphone",
+            "electronics.video.tv",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            37,
+            7,
+            37
+        ],
+        "supp": 153,
+        "conf": 0.019821862348178138,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.tablet",
+            "electronics.smartphone",
+            "electronics.tablet"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            37,
+            7,
+            37,
+            7
+        ],
+        "supp": 140,
+        "conf": 0.018137651821862347,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.tablet",
+            "electronics.smartphone",
+            "electronics.tablet",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            36,
+            7,
+            36,
+            7
+        ],
+        "supp": 107,
+        "conf": 0.013862348178137652,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.telephone",
+            "electronics.smartphone",
+            "electronics.telephone",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            5,
+            7,
+            12,
+            5,
+            7,
+            12
+        ],
+        "supp": 72,
+        "conf": 0.013991902834008097,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.headphone",
+            "electronics.smartphone",
+            "electronics.clocks",
+            "electronics.audio.headphone",
+            "electronics.smartphone",
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            5
+        ],
+        "Y_pattern": [
+            12,
+            5,
+            12
+        ],
+        "supp": 170,
+        "conf": 0.08581524482584553,
+        "labeled_X": [
+            "electronics.audio.headphone"
+        ],
+        "labeled_Y": [
+            "electronics.clocks",
+            "electronics.audio.headphone",
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            98,
+            5
+        ],
+        "Y_pattern": [
+            98,
+            5
+        ],
+        "supp": 14,
+        "conf": 0.5185185185185185,
+        "labeled_X": [
+            "computers.ebooks",
+            "electronics.audio.headphone"
+        ],
+        "labeled_Y": [
+            "computers.ebooks",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            5,
+            5
+        ],
+        "supp": 1113,
+        "conf": 0.07209716599190283,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.headphone",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            5,
+            7,
+            5
+        ],
+        "supp": 787,
+        "conf": 0.07646963562753037,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.headphone",
+            "electronics.smartphone",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            5,
+            5,
+            5
+        ],
+        "supp": 433,
+        "conf": 0.042072874493927125,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.headphone",
+            "electronics.audio.headphone",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            5,
+            12,
+            5
+        ],
+        "supp": 268,
+        "conf": 0.026040485829959516,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.headphone",
+            "electronics.clocks",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            5,
+            5,
+            5
+        ],
+        "Y_pattern": [
+            5
+        ],
+        "supp": 256,
+        "conf": 0.5912240184757506,
+        "labeled_X": [
+            "electronics.audio.headphone",
+            "electronics.audio.headphone",
+            "electronics.audio.headphone"
+        ],
+        "labeled_Y": [
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            12,
+            5,
+            12,
+            5
+        ],
+        "supp": 166,
+        "conf": 0.021506072874493926,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.clocks",
+            "electronics.audio.headphone",
+            "electronics.clocks",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            5,
+            7
+        ],
+        "supp": 1155,
+        "conf": 0.07481781376518219,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.headphone",
+            "electronics.smartphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            5
+        ],
+        "supp": 1143,
+        "conf": 0.07404048582995952,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            12,
+            5
+        ],
+        "supp": 224,
+        "conf": 0.02176518218623482,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.clocks",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            12,
+            5
+        ],
+        "supp": 380,
+        "conf": 0.024615384615384615,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.clocks",
+            "electronics.audio.headphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            12,
+            5
+        ],
+        "Y_pattern": [
+            12
+        ],
+        "supp": 246,
+        "conf": 0.6473684210526316,
+        "labeled_X": [
+            "electronics.clocks",
+            "electronics.audio.headphone"
+        ],
+        "labeled_Y": [
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            12,
+            5,
+            12
+        ],
+        "supp": 262,
+        "conf": 0.025457489878542513,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.clocks",
+            "electronics.audio.headphone",
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            12,
+            12
+        ],
+        "supp": 1059,
+        "conf": 0.06859919028340081,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.clocks",
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            12,
+            7,
+            12
+        ],
+        "supp": 748,
+        "conf": 0.07268016194331985,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.clocks",
+            "electronics.smartphone",
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            12,
+            7,
+            12,
+            12
+        ],
+        "supp": 284,
+        "conf": 0.036793522267206474,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.clocks",
+            "electronics.smartphone",
+            "electronics.clocks",
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            12
+        ],
+        "supp": 1098,
+        "conf": 0.07112550607287449,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "electronics.clocks"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            3,
+            3
+        ],
+        "supp": 586,
+        "conf": 0.03795951417004049,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.video.tv",
+            "electronics.video.tv"
+        ]
+    },
+    {
+        "X_pattern": [
+            4
+        ],
+        "Y_pattern": [
+            49,
+            4,
+            49
+        ],
+        "supp": 18,
+        "conf": 0.016853932584269662,
+        "labeled_X": [
+            "computers.notebook"
+        ],
+        "labeled_Y": [
+            "accessories.bag",
+            "computers.notebook",
+            "accessories.bag"
+        ]
+    },
+    {
+        "X_pattern": [
+            4
+        ],
+        "Y_pattern": [
+            81,
+            4,
+            81
+        ],
+        "supp": 25,
+        "conf": 0.023408239700374533,
+        "labeled_X": [
+            "computers.notebook"
+        ],
+        "labeled_Y": [
+            "computers.peripherals.printer",
+            "computers.notebook",
+            "computers.peripherals.printer"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            4,
+            4
+        ],
+        "supp": 567,
+        "conf": 0.03672874493927125,
+        "labeled_X": [],
+        "labeled_Y": [
+            "computers.notebook",
+            "computers.notebook"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            4,
+            7,
+            4
+        ],
+        "supp": 332,
+        "conf": 0.03225910931174089,
+        "labeled_X": [],
+        "labeled_Y": [
+            "computers.notebook",
+            "electronics.smartphone",
+            "computers.notebook"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            4,
+            81,
+            4
+        ],
+        "supp": 31,
+        "conf": 0.0030121457489878543,
+        "labeled_X": [],
+        "labeled_Y": [
+            "computers.notebook",
+            "computers.peripherals.printer",
+            "computers.notebook"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            7,
+            4,
+            4
+        ],
+        "supp": 234,
+        "conf": 0.02273684210526316,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.smartphone",
+            "computers.notebook",
+            "computers.notebook"
+        ]
+    },
+    {
+        "X_pattern": [
+            77,
+            4
+        ],
+        "Y_pattern": [
+            77
+        ],
+        "supp": 8,
+        "conf": 0.5333333333333333,
+        "labeled_X": [
+            "computers.components.memory",
+            "computers.notebook"
+        ],
+        "labeled_Y": [
+            "computers.components.memory"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            17,
+            17
+        ],
+        "supp": 451,
+        "conf": 0.029214574898785425,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.shoes",
+            "apparel.shoes"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            17,
+            6,
+            17
+        ],
+        "supp": 179,
+        "conf": 0.01739271255060729,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.shoes",
+            "apparel.shoes.keds",
+            "apparel.shoes"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            17,
+            6,
+            17,
+            6
+        ],
+        "supp": 125,
+        "conf": 0.016194331983805668,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.shoes",
+            "apparel.shoes.keds",
+            "apparel.shoes",
+            "apparel.shoes.keds"
+        ]
+    },
+    {
+        "X_pattern": [
+            6
+        ],
+        "Y_pattern": [
+            17,
+            6,
+            17
+        ],
+        "supp": 119,
+        "conf": 0.16643356643356644,
+        "labeled_X": [
+            "apparel.shoes.keds"
+        ],
+        "labeled_Y": [
+            "apparel.shoes",
+            "apparel.shoes.keds",
+            "apparel.shoes"
+        ]
+    },
+    {
+        "X_pattern": [
+            17,
+            6,
+            17,
+            6
+        ],
+        "Y_pattern": [
+            17
+        ],
+        "supp": 68,
+        "conf": 0.544,
+        "labeled_X": [
+            "apparel.shoes",
+            "apparel.shoes.keds",
+            "apparel.shoes",
+            "apparel.shoes.keds"
+        ],
+        "labeled_Y": [
+            "apparel.shoes"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            6,
+            17,
+            6
+        ],
+        "supp": 173,
+        "conf": 0.016809716599190283,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.shoes.keds",
+            "apparel.shoes",
+            "apparel.shoes.keds"
+        ]
+    },
+    {
+        "X_pattern": [
+            23,
+            20
+        ],
+        "Y_pattern": [
+            23,
+            20
+        ],
+        "supp": 53,
+        "conf": 0.48623853211009177,
+        "labeled_X": [
+            "appliances.kitchen.washer",
+            "appliances.kitchen.refrigerators"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.washer",
+            "appliances.kitchen.refrigerators"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            20,
+            20
+        ],
+        "supp": 438,
+        "conf": 0.02837246963562753,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.refrigerators",
+            "appliances.kitchen.refrigerators"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            20,
+            23
+        ],
+        "supp": 108,
+        "conf": 0.006995951417004049,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.refrigerators",
+            "appliances.kitchen.washer"
+        ]
+    },
+    {
+        "X_pattern": [
+            23,
+            15
+        ],
+        "Y_pattern": [
+            23,
+            15
+        ],
+        "supp": 35,
+        "conf": 0.4605263157894737,
+        "labeled_X": [
+            "appliances.kitchen.washer",
+            "appliances.environment.vacuum"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.washer",
+            "appliances.environment.vacuum"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            15,
+            15
+        ],
+        "supp": 410,
+        "conf": 0.026558704453441294,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.environment.vacuum",
+            "appliances.environment.vacuum"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            23,
+            23
+        ],
+        "supp": 417,
+        "conf": 0.027012145748987856,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.washer",
+            "appliances.kitchen.washer"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            6,
+            6
+        ],
+        "supp": 361,
+        "conf": 0.023384615384615386,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.shoes.keds",
+            "apparel.shoes.keds"
+        ]
+    },
+    {
+        "X_pattern": [
+            6
+        ],
+        "Y_pattern": [
+            96
+        ],
+        "supp": 22,
+        "conf": 0.03076923076923077,
+        "labeled_X": [
+            "apparel.shoes.keds"
+        ],
+        "labeled_Y": [
+            "apparel.shoes.moccasins"
+        ]
+    },
+    {
+        "X_pattern": [
+            39
+        ],
+        "Y_pattern": [
+            51,
+            39,
+            51
+        ],
+        "supp": 116,
+        "conf": 0.17901234567901234,
+        "labeled_X": [
+            "auto.accessories.player"
+        ],
+        "labeled_Y": [
+            "electronics.audio.subwoofer",
+            "auto.accessories.player",
+            "electronics.audio.subwoofer"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            39,
+            39
+        ],
+        "supp": 358,
+        "conf": 0.023190283400809718,
+        "labeled_X": [],
+        "labeled_Y": [
+            "auto.accessories.player",
+            "auto.accessories.player"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            39,
+            51,
+            39
+        ],
+        "supp": 153,
+        "conf": 0.014866396761133605,
+        "labeled_X": [],
+        "labeled_Y": [
+            "auto.accessories.player",
+            "electronics.audio.subwoofer",
+            "auto.accessories.player"
+        ]
+    },
+    {
+        "X_pattern": [
+            51
+        ],
+        "Y_pattern": [
+            39,
+            51,
+            39
+        ],
+        "supp": 104,
+        "conf": 0.22559652928416485,
+        "labeled_X": [
+            "electronics.audio.subwoofer"
+        ],
+        "labeled_Y": [
+            "auto.accessories.player",
+            "electronics.audio.subwoofer",
+            "auto.accessories.player"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            51,
+            39,
+            51
+        ],
+        "supp": 144,
+        "conf": 0.013991902834008097,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.subwoofer",
+            "auto.accessories.player",
+            "electronics.audio.subwoofer"
+        ]
+    },
+    {
+        "X_pattern": [
+            31
+        ],
+        "Y_pattern": [
+            39,
+            31,
+            39
+        ],
+        "supp": 26,
+        "conf": 0.08074534161490683,
+        "labeled_X": [
+            "auto.accessories.alarm"
+        ],
+        "labeled_Y": [
+            "auto.accessories.player",
+            "auto.accessories.alarm",
+            "auto.accessories.player"
+        ]
+    },
+    {
+        "X_pattern": [
+            62,
+            10
+        ],
+        "Y_pattern": [
+            62,
+            10
+        ],
+        "supp": 52,
+        "conf": 0.5098039215686274,
+        "labeled_X": [
+            "furniture.living_room.cabinet",
+            "furniture.bedroom.bed"
+        ],
+        "labeled_Y": [
+            "furniture.living_room.cabinet",
+            "furniture.bedroom.bed"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            10,
+            10
+        ],
+        "supp": 297,
+        "conf": 0.019238866396761135,
+        "labeled_X": [],
+        "labeled_Y": [
+            "furniture.bedroom.bed",
+            "furniture.bedroom.bed"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            62,
+            10
+        ],
+        "supp": 102,
+        "conf": 0.006607287449392712,
+        "labeled_X": [],
+        "labeled_Y": [
+            "furniture.living_room.cabinet",
+            "furniture.bedroom.bed"
+        ]
+    },
+    {
+        "X_pattern": [
+            34
+        ],
+        "Y_pattern": [
+            30,
+            34,
+            34,
+            30
+        ],
+        "supp": 12,
+        "conf": 0.021238938053097345,
+        "labeled_X": [
+            "computers.desktop"
+        ],
+        "labeled_Y": [
+            "computers.peripherals.monitor",
+            "computers.desktop",
+            "computers.desktop",
+            "computers.peripherals.monitor"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            34,
+            34
+        ],
+        "supp": 312,
+        "conf": 0.020210526315789474,
+        "labeled_X": [],
+        "labeled_Y": [
+            "computers.desktop",
+            "computers.desktop"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            37,
+            37
+        ],
+        "supp": 240,
+        "conf": 0.015546558704453442,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.tablet",
+            "electronics.tablet"
+        ]
+    },
+    {
+        "X_pattern": [
+            51
+        ],
+        "Y_pattern": [
+            51
+        ],
+        "supp": 245,
+        "conf": 0.5314533622559653,
+        "labeled_X": [
+            "electronics.audio.subwoofer"
+        ],
+        "labeled_Y": [
+            "electronics.audio.subwoofer"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            51,
+            51
+        ],
+        "supp": 259,
+        "conf": 0.016777327935222672,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.subwoofer",
+            "electronics.audio.subwoofer"
+        ]
+    },
+    {
+        "X_pattern": [
+            33
+        ],
+        "Y_pattern": [
+            31,
+            33,
+            31
+        ],
+        "supp": 21,
+        "conf": 0.05236907730673317,
+        "labeled_X": [
+            "auto.accessories.videoregister"
+        ],
+        "labeled_Y": [
+            "auto.accessories.alarm",
+            "auto.accessories.videoregister",
+            "auto.accessories.alarm"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            33,
+            33
+        ],
+        "supp": 187,
+        "conf": 0.01211336032388664,
+        "labeled_X": [],
+        "labeled_Y": [
+            "auto.accessories.videoregister",
+            "auto.accessories.videoregister"
+        ]
+    },
+    {
+        "X_pattern": [
+            39
+        ],
+        "Y_pattern": [
+            33,
+            33
+        ],
+        "supp": 22,
+        "conf": 0.033950617283950615,
+        "labeled_X": [
+            "auto.accessories.player"
+        ],
+        "labeled_Y": [
+            "auto.accessories.videoregister",
+            "auto.accessories.videoregister"
+        ]
+    },
+    {
+        "X_pattern": [
+            75
+        ],
+        "Y_pattern": [
+            33
+        ],
+        "supp": 32,
+        "conf": 0.32989690721649484,
+        "labeled_X": [
+            "auto.accessories.radar"
+        ],
+        "labeled_Y": [
+            "auto.accessories.videoregister"
+        ]
+    },
+    {
+        "X_pattern": [
+            75
+        ],
+        "Y_pattern": [
+            33,
+            75
+        ],
+        "supp": 21,
+        "conf": 0.21649484536082475,
+        "labeled_X": [
+            "auto.accessories.radar"
+        ],
+        "labeled_Y": [
+            "auto.accessories.videoregister",
+            "auto.accessories.radar"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            49,
+            49
+        ],
+        "supp": 151,
+        "conf": 0.009781376518218624,
+        "labeled_X": [],
+        "labeled_Y": [
+            "accessories.bag",
+            "accessories.bag"
+        ]
+    },
+    {
+        "X_pattern": [
+            89
+        ],
+        "Y_pattern": [
+            49,
+            89
+        ],
+        "supp": 18,
+        "conf": 0.2465753424657534,
+        "labeled_X": [
+            "accessories.wallet"
+        ],
+        "labeled_Y": [
+            "accessories.bag",
+            "accessories.wallet"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            36,
+            36
+        ],
+        "supp": 161,
+        "conf": 0.01042914979757085,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.telephone",
+            "electronics.telephone"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            62,
+            62
+        ],
+        "supp": 175,
+        "conf": 0.011336032388663968,
+        "labeled_X": [],
+        "labeled_Y": [
+            "furniture.living_room.cabinet",
+            "furniture.living_room.cabinet"
+        ]
+    },
+    {
+        "X_pattern": [
+            10
+        ],
+        "Y_pattern": [
+            62,
+            62
+        ],
+        "supp": 56,
+        "conf": 0.0979020979020979,
+        "labeled_X": [
+            "furniture.bedroom.bed"
+        ],
+        "labeled_Y": [
+            "furniture.living_room.cabinet",
+            "furniture.living_room.cabinet"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            31,
+            31
+        ],
+        "supp": 153,
+        "conf": 0.009910931174089069,
+        "labeled_X": [],
+        "labeled_Y": [
+            "auto.accessories.alarm",
+            "auto.accessories.alarm"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            2,
+            2
+        ],
+        "supp": 151,
+        "conf": 0.009781376518218624,
+        "labeled_X": [],
+        "labeled_Y": [
+            "furniture.living_room.sofa",
+            "furniture.living_room.sofa"
+        ]
+    },
+    {
+        "X_pattern": [
+            62
+        ],
+        "Y_pattern": [
+            2,
+            2
+        ],
+        "supp": 21,
+        "conf": 0.061946902654867256,
+        "labeled_X": [
+            "furniture.living_room.cabinet"
+        ],
+        "labeled_Y": [
+            "furniture.living_room.sofa",
+            "furniture.living_room.sofa"
+        ]
+    },
+    {
+        "X_pattern": [
+            10
+        ],
+        "Y_pattern": [
+            2,
+            2
+        ],
+        "supp": 28,
+        "conf": 0.04895104895104895,
+        "labeled_X": [
+            "furniture.bedroom.bed"
+        ],
+        "labeled_Y": [
+            "furniture.living_room.sofa",
+            "furniture.living_room.sofa"
+        ]
+    },
+    {
+        "X_pattern": [
+            44
+        ],
+        "Y_pattern": [
+            40,
+            44,
+            40
+        ],
+        "supp": 17,
+        "conf": 0.0529595015576324,
+        "labeled_X": [
+            "apparel.costume"
+        ],
+        "labeled_Y": [
+            "apparel.jeans",
+            "apparel.costume",
+            "apparel.jeans"
+        ]
+    },
+    {
+        "X_pattern": [
+            67,
+            44
+        ],
+        "Y_pattern": [
+            67,
+            44
+        ],
+        "supp": 8,
+        "conf": 0.4444444444444444,
+        "labeled_X": [
+            "apparel.underwear",
+            "apparel.costume"
+        ],
+        "labeled_Y": [
+            "apparel.underwear",
+            "apparel.costume"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            44,
+            44
+        ],
+        "supp": 134,
+        "conf": 0.008680161943319838,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.costume",
+            "apparel.costume"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            44,
+            69,
+            44
+        ],
+        "supp": 11,
+        "conf": 0.001068825910931174,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.costume",
+            "apparel.shirt",
+            "apparel.costume"
+        ]
+    },
+    {
+        "X_pattern": [
+            44,
+            69,
+            44
+        ],
+        "Y_pattern": [
+            69
+        ],
+        "supp": 7,
+        "conf": 0.6363636363636364,
+        "labeled_X": [
+            "apparel.costume",
+            "apparel.shirt",
+            "apparel.costume"
+        ],
+        "labeled_Y": [
+            "apparel.shirt"
+        ]
+    },
+    {
+        "X_pattern": [
+            69
+        ],
+        "Y_pattern": [
+            44,
+            69,
+            44
+        ],
+        "supp": 4,
+        "conf": 0.07142857142857142,
+        "labeled_X": [
+            "apparel.shirt"
+        ],
+        "labeled_Y": [
+            "apparel.costume",
+            "apparel.shirt",
+            "apparel.costume"
+        ]
+    },
+    {
+        "X_pattern": [
+            44
+        ],
+        "Y_pattern": [
+            86
+        ],
+        "supp": 18,
+        "conf": 0.056074766355140186,
+        "labeled_X": [
+            "apparel.costume"
+        ],
+        "labeled_Y": [
+            "apparel.trousers"
+        ]
+    },
+    {
+        "X_pattern": [
+            44
+        ],
+        "Y_pattern": [
+            63
+        ],
+        "supp": 20,
+        "conf": 0.06230529595015576,
+        "labeled_X": [
+            "apparel.costume"
+        ],
+        "labeled_Y": [
+            "apparel.tshirt"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            25,
+            25
+        ],
+        "supp": 145,
+        "conf": 0.009392712550607288,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.blender",
+            "appliances.kitchen.blender"
+        ]
+    },
+    {
+        "X_pattern": [
+            28
+        ],
+        "Y_pattern": [
+            18,
+            28,
+            18
+        ],
+        "supp": 39,
+        "conf": 0.14130434782608695,
+        "labeled_X": [
+            "construction.tools.drill"
+        ],
+        "labeled_Y": [
+            "construction.tools.saw",
+            "construction.tools.drill",
+            "construction.tools.saw"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            28,
+            28
+        ],
+        "supp": 146,
+        "conf": 0.00945748987854251,
+        "labeled_X": [],
+        "labeled_Y": [
+            "construction.tools.drill",
+            "construction.tools.drill"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            28,
+            18,
+            28
+        ],
+        "supp": 44,
+        "conf": 0.004275303643724696,
+        "labeled_X": [],
+        "labeled_Y": [
+            "construction.tools.drill",
+            "construction.tools.saw",
+            "construction.tools.drill"
+        ]
+    },
+    {
+        "X_pattern": [
+            28,
+            18,
+            28
+        ],
+        "Y_pattern": [
+            28
+        ],
+        "supp": 22,
+        "conf": 0.5,
+        "labeled_X": [
+            "construction.tools.drill",
+            "construction.tools.saw",
+            "construction.tools.drill"
+        ],
+        "labeled_Y": [
+            "construction.tools.drill"
+        ]
+    },
+    {
+        "X_pattern": [
+            52,
+            65
+        ],
+        "Y_pattern": [
+            52,
+            65
+        ],
+        "supp": 18,
+        "conf": 0.5294117647058824,
+        "labeled_X": [
+            "sport.bicycle",
+            "kids.skates"
+        ],
+        "labeled_Y": [
+            "sport.bicycle",
+            "kids.skates"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            52,
+            52
+        ],
+        "supp": 123,
+        "conf": 0.007967611336032389,
+        "labeled_X": [],
+        "labeled_Y": [
+            "sport.bicycle",
+            "sport.bicycle"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            52,
+            65
+        ],
+        "supp": 34,
+        "conf": 0.0022024291497975707,
+        "labeled_X": [],
+        "labeled_Y": [
+            "sport.bicycle",
+            "kids.skates"
+        ]
+    },
+    {
+        "X_pattern": [
+            65
+        ],
+        "Y_pattern": [
+            52,
+            65
+        ],
+        "supp": 26,
+        "conf": 0.174496644295302,
+        "labeled_X": [
+            "kids.skates"
+        ],
+        "labeled_Y": [
+            "sport.bicycle",
+            "kids.skates"
+        ]
+    },
+    {
+        "X_pattern": [
+            65
+        ],
+        "Y_pattern": [
+            52
+        ],
+        "supp": 30,
+        "conf": 0.20134228187919462,
+        "labeled_X": [
+            "kids.skates"
+        ],
+        "labeled_Y": [
+            "sport.bicycle"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            64,
+            64
+        ],
+        "supp": 114,
+        "conf": 0.0073846153846153844,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.kettle",
+            "appliances.kitchen.kettle"
+        ]
+    },
+    {
+        "X_pattern": [
+            60
+        ],
+        "Y_pattern": [
+            64,
+            60,
+            64
+        ],
+        "supp": 7,
+        "conf": 0.046052631578947366,
+        "labeled_X": [
+            "appliances.kitchen.grill"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.kettle",
+            "appliances.kitchen.grill",
+            "appliances.kitchen.kettle"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            8,
+            8
+        ],
+        "supp": 122,
+        "conf": 0.007902834008097166,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.microwave",
+            "appliances.kitchen.microwave"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            38,
+            38
+        ],
+        "supp": 118,
+        "conf": 0.007643724696356275,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.environment.air_heater",
+            "appliances.environment.air_heater"
+        ]
+    },
+    {
+        "X_pattern": [
+            29,
+            55
+        ],
+        "Y_pattern": [
+            29,
+            55
+        ],
+        "supp": 9,
+        "conf": 0.75,
+        "labeled_X": [
+            "construction.tools.light",
+            "kids.toys"
+        ],
+        "labeled_Y": [
+            "construction.tools.light",
+            "kids.toys"
+        ]
+    },
+    {
+        "X_pattern": [
+            105,
+            55
+        ],
+        "Y_pattern": [
+            105,
+            55
+        ],
+        "supp": 9,
+        "conf": 0.5294117647058824,
+        "labeled_X": [
+            "kids.dolls",
+            "kids.toys"
+        ],
+        "labeled_Y": [
+            "kids.dolls",
+            "kids.toys"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            55,
+            55
+        ],
+        "supp": 108,
+        "conf": 0.006995951417004049,
+        "labeled_X": [],
+        "labeled_Y": [
+            "kids.toys",
+            "kids.toys"
+        ]
+    },
+    {
+        "X_pattern": [
+            105
+        ],
+        "Y_pattern": [
+            55
+        ],
+        "supp": 17,
+        "conf": 0.2328767123287671,
+        "labeled_X": [
+            "kids.dolls"
+        ],
+        "labeled_Y": [
+            "kids.toys"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            81,
+            81
+        ],
+        "supp": 100,
+        "conf": 0.006477732793522267,
+        "labeled_X": [],
+        "labeled_Y": [
+            "computers.peripherals.printer",
+            "computers.peripherals.printer"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            59,
+            59
+        ],
+        "supp": 96,
+        "conf": 0.0062186234817813765,
+        "labeled_X": [],
+        "labeled_Y": [
+            "kids.carriage",
+            "kids.carriage"
+        ]
+    },
+    {
+        "X_pattern": [
+            59
+        ],
+        "Y_pattern": [
+            26
+        ],
+        "supp": 18,
+        "conf": 0.08695652173913043,
+        "labeled_X": [
+            "kids.carriage"
+        ],
+        "labeled_Y": [
+            "furniture.living_room.chair"
+        ]
+    },
+    {
+        "X_pattern": [
+            42
+        ],
+        "Y_pattern": [
+            88,
+            42,
+            88
+        ],
+        "supp": 12,
+        "conf": 0.05825242718446602,
+        "labeled_X": [
+            "appliances.iron"
+        ],
+        "labeled_Y": [
+            "appliances.ironing_board",
+            "appliances.iron",
+            "appliances.ironing_board"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            42,
+            42
+        ],
+        "supp": 106,
+        "conf": 0.0068663967611336035,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.iron",
+            "appliances.iron"
+        ]
+    },
+    {
+        "X_pattern": [
+            15
+        ],
+        "Y_pattern": [
+            42,
+            42
+        ],
+        "supp": 16,
+        "conf": 0.019417475728155338,
+        "labeled_X": [
+            "appliances.environment.vacuum"
+        ],
+        "labeled_Y": [
+            "appliances.iron",
+            "appliances.iron"
+        ]
+    },
+    {
+        "X_pattern": [
+            111,
+            66
+        ],
+        "Y_pattern": [
+            111,
+            66
+        ],
+        "supp": 21,
+        "conf": 0.6,
+        "labeled_X": [
+            "appliances.kitchen.hood",
+            "appliances.kitchen.oven"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.hood",
+            "appliances.kitchen.oven"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            66,
+            66
+        ],
+        "supp": 108,
+        "conf": 0.006995951417004049,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.oven",
+            "appliances.kitchen.oven"
+        ]
+    },
+    {
+        "X_pattern": [
+            32
+        ],
+        "Y_pattern": [
+            66
+        ],
+        "supp": 43,
+        "conf": 0.24293785310734464,
+        "labeled_X": [
+            "appliances.kitchen.hob"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.oven"
+        ]
+    },
+    {
+        "X_pattern": [
+            32
+        ],
+        "Y_pattern": [
+            111,
+            66
+        ],
+        "supp": 14,
+        "conf": 0.07909604519774012,
+        "labeled_X": [
+            "appliances.kitchen.hob"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.hood",
+            "appliances.kitchen.oven"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            18,
+            18
+        ],
+        "supp": 112,
+        "conf": 0.007255060728744939,
+        "labeled_X": [],
+        "labeled_Y": [
+            "construction.tools.saw",
+            "construction.tools.saw"
+        ]
+    },
+    {
+        "X_pattern": [
+            1
+        ],
+        "Y_pattern": [
+            1
+        ],
+        "supp": 93,
+        "conf": 0.49206349206349204,
+        "labeled_X": [
+            "appliances.environment.water_heater"
+        ],
+        "labeled_Y": [
+            "appliances.environment.water_heater"
+        ]
+    },
+    {
+        "X_pattern": [
+            57
+        ],
+        "Y_pattern": [
+            26,
+            57
+        ],
+        "supp": 15,
+        "conf": 0.0797872340425532,
+        "labeled_X": [
+            "furniture.kitchen.chair"
+        ],
+        "labeled_Y": [
+            "furniture.living_room.chair",
+            "furniture.kitchen.chair"
+        ]
+    },
+    {
+        "X_pattern": [
+            26,
+            57
+        ],
+        "Y_pattern": [
+            26,
+            57
+        ],
+        "supp": 10,
+        "conf": 0.5,
+        "labeled_X": [
+            "furniture.living_room.chair",
+            "furniture.kitchen.chair"
+        ],
+        "labeled_Y": [
+            "furniture.living_room.chair",
+            "furniture.kitchen.chair"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            57,
+            57
+        ],
+        "supp": 85,
+        "conf": 0.005506072874493927,
+        "labeled_X": [],
+        "labeled_Y": [
+            "furniture.kitchen.chair",
+            "furniture.kitchen.chair"
+        ]
+    },
+    {
+        "X_pattern": [
+            11
+        ],
+        "Y_pattern": [
+            57
+        ],
+        "supp": 25,
+        "conf": 0.14285714285714285,
+        "labeled_X": [
+            "furniture.kitchen.table"
+        ],
+        "labeled_Y": [
+            "furniture.kitchen.chair"
+        ]
+    },
+    {
+        "X_pattern": [
+            32
+        ],
+        "Y_pattern": [
+            32
+        ],
+        "supp": 99,
+        "conf": 0.559322033898305,
+        "labeled_X": [
+            "appliances.kitchen.hob"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.hob"
+        ]
+    },
+    {
+        "X_pattern": [
+            19
+        ],
+        "Y_pattern": [
+            32
+        ],
+        "supp": 17,
+        "conf": 0.18888888888888888,
+        "labeled_X": [
+            "appliances.kitchen.dishwasher"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.hob"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            68,
+            68
+        ],
+        "supp": 73,
+        "conf": 0.004728744939271255,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.meat_grinder",
+            "appliances.kitchen.meat_grinder"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            11,
+            11
+        ],
+        "supp": 82,
+        "conf": 0.005311740890688259,
+        "labeled_X": [],
+        "labeled_Y": [
+            "furniture.kitchen.table",
+            "furniture.kitchen.table"
+        ]
+    },
+    {
+        "X_pattern": [
+            57
+        ],
+        "Y_pattern": [
+            11,
+            11
+        ],
+        "supp": 10,
+        "conf": 0.05319148936170213,
+        "labeled_X": [
+            "furniture.kitchen.chair"
+        ],
+        "labeled_Y": [
+            "furniture.kitchen.table",
+            "furniture.kitchen.table"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            91,
+            91
+        ],
+        "supp": 84,
+        "conf": 0.005441295546558704,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.acoustic",
+            "electronics.audio.acoustic"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            60,
+            60
+        ],
+        "supp": 70,
+        "conf": 0.004534412955465587,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.grill",
+            "appliances.kitchen.grill"
+        ]
+    },
+    {
+        "X_pattern": [
+            21
+        ],
+        "Y_pattern": [
+            60
+        ],
+        "supp": 7,
+        "conf": 0.4375,
+        "labeled_X": [
+            "appliances.kitchen.coffee_grinder"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.grill"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            111,
+            111
+        ],
+        "supp": 88,
+        "conf": 0.0057004048582995955,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.hood",
+            "appliances.kitchen.hood"
+        ]
+    },
+    {
+        "X_pattern": [
+            65
+        ],
+        "Y_pattern": [
+            65
+        ],
+        "supp": 63,
+        "conf": 0.4228187919463087,
+        "labeled_X": [
+            "kids.skates"
+        ],
+        "labeled_Y": [
+            "kids.skates"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            13,
+            13
+        ],
+        "supp": 70,
+        "conf": 0.004534412955465587,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.mixer",
+            "appliances.kitchen.mixer"
+        ]
+    },
+    {
+        "X_pattern": [
+            13
+        ],
+        "Y_pattern": [
+            103
+        ],
+        "supp": 10,
+        "conf": 0.06993006993006994,
+        "labeled_X": [
+            "appliances.kitchen.mixer"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.toster"
+        ]
+    },
+    {
+        "X_pattern": [
+            35
+        ],
+        "Y_pattern": [
+            35
+        ],
+        "supp": 64,
+        "conf": 0.45714285714285713,
+        "labeled_X": [
+            "appliances.sewing_machine"
+        ],
+        "labeled_Y": [
+            "appliances.sewing_machine"
+        ]
+    },
+    {
+        "X_pattern": [
+            43
+        ],
+        "Y_pattern": [
+            43
+        ],
+        "supp": 58,
+        "conf": 0.42028985507246375,
+        "labeled_X": [
+            "appliances.kitchen.coffee_machine"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.coffee_machine"
+        ]
+    },
+    {
+        "X_pattern": [
+            40
+        ],
+        "Y_pattern": [
+            76,
+            40,
+            76
+        ],
+        "supp": 9,
+        "conf": 0.06818181818181818,
+        "labeled_X": [
+            "apparel.jeans"
+        ],
+        "labeled_Y": [
+            "apparel.dress",
+            "apparel.jeans",
+            "apparel.dress"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            40,
+            40
+        ],
+        "supp": 51,
+        "conf": 0.003303643724696356,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.jeans",
+            "apparel.jeans"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            16,
+            16
+        ],
+        "supp": 50,
+        "conf": 0.0032388663967611335,
+        "labeled_X": [],
+        "labeled_Y": [
+            "construction.tools.generator",
+            "construction.tools.generator"
+        ]
+    },
+    {
+        "X_pattern": [
+            26
+        ],
+        "Y_pattern": [
+            26
+        ],
+        "supp": 46,
+        "conf": 0.39316239316239315,
+        "labeled_X": [
+            "furniture.living_room.chair"
+        ],
+        "labeled_Y": [
+            "furniture.living_room.chair"
+        ]
+    },
+    {
+        "X_pattern": [
+            30
+        ],
+        "Y_pattern": [
+            30
+        ],
+        "supp": 42,
+        "conf": 0.3620689655172414,
+        "labeled_X": [
+            "computers.peripherals.monitor"
+        ],
+        "labeled_Y": [
+            "computers.peripherals.monitor"
+        ]
+    },
+    {
+        "X_pattern": [
+            14
+        ],
+        "Y_pattern": [
+            14
+        ],
+        "supp": 41,
+        "conf": 0.36283185840707965,
+        "labeled_X": [
+            "computers.components.videocards"
+        ],
+        "labeled_Y": [
+            "computers.components.videocards"
+        ]
+    },
+    {
+        "X_pattern": [
+            73
+        ],
+        "Y_pattern": [
+            14,
+            73
+        ],
+        "supp": 15,
+        "conf": 0.17857142857142858,
+        "labeled_X": [
+            "computers.components.cpu"
+        ],
+        "labeled_Y": [
+            "computers.components.videocards",
+            "computers.components.cpu"
+        ]
+    },
+    {
+        "X_pattern": [
+            14
+        ],
+        "Y_pattern": [
+            73
+        ],
+        "supp": 20,
+        "conf": 0.17699115044247787,
+        "labeled_X": [
+            "computers.components.videocards"
+        ],
+        "labeled_Y": [
+            "computers.components.cpu"
+        ]
+    },
+    {
+        "X_pattern": [
+            14
+        ],
+        "Y_pattern": [
+            77
+        ],
+        "supp": 17,
+        "conf": 0.1504424778761062,
+        "labeled_X": [
+            "computers.components.videocards"
+        ],
+        "labeled_Y": [
+            "computers.components.memory"
+        ]
+    },
+    {
+        "X_pattern": [
+            14
+        ],
+        "Y_pattern": [
+            74
+        ],
+        "supp": 15,
+        "conf": 0.13274336283185842,
+        "labeled_X": [
+            "computers.components.videocards"
+        ],
+        "labeled_Y": [
+            "computers.components.hdd"
+        ]
+    },
+    {
+        "X_pattern": [
+            74
+        ],
+        "Y_pattern": [
+            14
+        ],
+        "supp": 13,
+        "conf": 0.14130434782608695,
+        "labeled_X": [
+            "computers.components.hdd"
+        ],
+        "labeled_Y": [
+            "computers.components.videocards"
+        ]
+    },
+    {
+        "X_pattern": [
+            14
+        ],
+        "Y_pattern": [
+            87
+        ],
+        "supp": 12,
+        "conf": 0.10619469026548672,
+        "labeled_X": [
+            "computers.components.videocards"
+        ],
+        "labeled_Y": [
+            "computers.components.motherboard"
+        ]
+    },
+    {
+        "X_pattern": [
+            47
+        ],
+        "Y_pattern": [
+            47
+        ],
+        "supp": 48,
+        "conf": 0.42857142857142855,
+        "labeled_X": [
+            "computers.peripherals.mouse"
+        ],
+        "labeled_Y": [
+            "computers.peripherals.mouse"
+        ]
+    },
+    {
+        "X_pattern": [
+            47
+        ],
+        "Y_pattern": [
+            46,
+            47,
+            46
+        ],
+        "supp": 16,
+        "conf": 0.14285714285714285,
+        "labeled_X": [
+            "computers.peripherals.mouse"
+        ],
+        "labeled_Y": [
+            "computers.peripherals.keyboard",
+            "computers.peripherals.mouse",
+            "computers.peripherals.keyboard"
+        ]
+    },
+    {
+        "X_pattern": [
+            46
+        ],
+        "Y_pattern": [
+            47,
+            34
+        ],
+        "supp": 9,
+        "conf": 0.1,
+        "labeled_X": [
+            "computers.peripherals.keyboard"
+        ],
+        "labeled_Y": [
+            "computers.peripherals.mouse",
+            "computers.desktop"
+        ]
+    },
+    {
+        "X_pattern": [
+            53
+        ],
+        "Y_pattern": [
+            53
+        ],
+        "supp": 46,
+        "conf": 0.42201834862385323,
+        "labeled_X": [
+            "appliances.personal.scales"
+        ],
+        "labeled_Y": [
+            "appliances.personal.scales"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            53,
+            53
+        ],
+        "supp": 50,
+        "conf": 0.0032388663967611335,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.personal.scales",
+            "appliances.personal.scales"
+        ]
+    },
+    {
+        "X_pattern": [
+            71
+        ],
+        "Y_pattern": [
+            71
+        ],
+        "supp": 51,
+        "conf": 0.5204081632653061,
+        "labeled_X": [
+            "construction.tools.welding"
+        ],
+        "labeled_Y": [
+            "construction.tools.welding"
+        ]
+    },
+    {
+        "X_pattern": [
+            75
+        ],
+        "Y_pattern": [
+            75
+        ],
+        "supp": 40,
+        "conf": 0.41237113402061853,
+        "labeled_X": [
+            "auto.accessories.radar"
+        ],
+        "labeled_Y": [
+            "auto.accessories.radar"
+        ]
+    },
+    {
+        "X_pattern": [
+            63
+        ],
+        "Y_pattern": [
+            63
+        ],
+        "supp": 31,
+        "conf": 0.3333333333333333,
+        "labeled_X": [
+            "apparel.tshirt"
+        ],
+        "labeled_Y": [
+            "apparel.tshirt"
+        ]
+    },
+    {
+        "X_pattern": [
+            63
+        ],
+        "Y_pattern": [
+            69,
+            63,
+            69
+        ],
+        "supp": 3,
+        "conf": 0.03225806451612903,
+        "labeled_X": [
+            "apparel.tshirt"
+        ],
+        "labeled_Y": [
+            "apparel.shirt",
+            "apparel.tshirt",
+            "apparel.shirt"
+        ]
+    },
+    {
+        "X_pattern": [
+            24
+        ],
+        "Y_pattern": [
+            24
+        ],
+        "supp": 39,
+        "conf": 0.42391304347826086,
+        "labeled_X": [
+            "auto.accessories.compressor"
+        ],
+        "labeled_Y": [
+            "auto.accessories.compressor"
+        ]
+    },
+    {
+        "X_pattern": [
+            74
+        ],
+        "Y_pattern": [
+            74
+        ],
+        "supp": 35,
+        "conf": 0.3804347826086957,
+        "labeled_X": [
+            "computers.components.hdd"
+        ],
+        "labeled_Y": [
+            "computers.components.hdd"
+        ]
+    },
+    {
+        "X_pattern": [
+            74
+        ],
+        "Y_pattern": [
+            77,
+            74,
+            77
+        ],
+        "supp": 9,
+        "conf": 0.09782608695652174,
+        "labeled_X": [
+            "computers.components.hdd"
+        ],
+        "labeled_Y": [
+            "computers.components.memory",
+            "computers.components.hdd",
+            "computers.components.memory"
+        ]
+    },
+    {
+        "X_pattern": [
+            77
+        ],
+        "Y_pattern": [
+            74,
+            87
+        ],
+        "supp": 8,
+        "conf": 0.14285714285714285,
+        "labeled_X": [
+            "computers.components.memory"
+        ],
+        "labeled_Y": [
+            "computers.components.hdd",
+            "computers.components.motherboard"
+        ]
+    },
+    {
+        "X_pattern": [
+            19
+        ],
+        "Y_pattern": [
+            19
+        ],
+        "supp": 33,
+        "conf": 0.36666666666666664,
+        "labeled_X": [
+            "appliances.kitchen.dishwasher"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.dishwasher"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            46,
+            46
+        ],
+        "supp": 45,
+        "conf": 0.0029149797570850204,
+        "labeled_X": [],
+        "labeled_Y": [
+            "computers.peripherals.keyboard",
+            "computers.peripherals.keyboard"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            76,
+            76
+        ],
+        "supp": 36,
+        "conf": 0.0023319838056680164,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.dress",
+            "apparel.dress"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            67,
+            67
+        ],
+        "supp": 40,
+        "conf": 0.002591093117408907,
+        "labeled_X": [],
+        "labeled_Y": [
+            "apparel.underwear",
+            "apparel.underwear"
+        ]
+    },
+    {
+        "X_pattern": [
+            27
+        ],
+        "Y_pattern": [
+            27
+        ],
+        "supp": 37,
+        "conf": 0.44047619047619047,
+        "labeled_X": [
+            "electronics.camera.video"
+        ],
+        "labeled_Y": [
+            "electronics.camera.video"
+        ]
+    },
+    {
+        "X_pattern": [
+            73
+        ],
+        "Y_pattern": [
+            73
+        ],
+        "supp": 40,
+        "conf": 0.47619047619047616,
+        "labeled_X": [
+            "computers.components.cpu"
+        ],
+        "labeled_Y": [
+            "computers.components.cpu"
+        ]
+    },
+    {
+        "X_pattern": [
+            104
+        ],
+        "Y_pattern": [
+            104
+        ],
+        "supp": 30,
+        "conf": 0.35714285714285715,
+        "labeled_X": [
+            "furniture.bedroom.pillow"
+        ],
+        "labeled_Y": [
+            "furniture.bedroom.pillow"
+        ]
+    },
+    {
+        "X_pattern": [
+            104
+        ],
+        "Y_pattern": [
+            82,
+            104,
+            82
+        ],
+        "supp": 5,
+        "conf": 0.05952380952380952,
+        "labeled_X": [
+            "furniture.bedroom.pillow"
+        ],
+        "labeled_Y": [
+            "furniture.bedroom.blanket",
+            "furniture.bedroom.pillow",
+            "furniture.bedroom.blanket"
+        ]
+    },
+    {
+        "X_pattern": [
+            89
+        ],
+        "Y_pattern": [
+            89
+        ],
+        "supp": 34,
+        "conf": 0.4657534246575342,
+        "labeled_X": [
+            "accessories.wallet"
+        ],
+        "labeled_Y": [
+            "accessories.wallet"
+        ]
+    },
+    {
+        "X_pattern": [
+            105
+        ],
+        "Y_pattern": [
+            105
+        ],
+        "supp": 28,
+        "conf": 0.3835616438356164,
+        "labeled_X": [
+            "kids.dolls"
+        ],
+        "labeled_Y": [
+            "kids.dolls"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            9,
+            9
+        ],
+        "supp": 35,
+        "conf": 0.0022672064777327933,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.kitchen.juicer",
+            "appliances.kitchen.juicer"
+        ]
+    },
+    {
+        "X_pattern": [
+            61
+        ],
+        "Y_pattern": [
+            61
+        ],
+        "supp": 27,
+        "conf": 0.39705882352941174,
+        "labeled_X": [
+            "appliances.personal.hair_cutter"
+        ],
+        "labeled_Y": [
+            "appliances.personal.hair_cutter"
+        ]
+    },
+    {
+        "X_pattern": [
+            92
+        ],
+        "Y_pattern": [
+            92
+        ],
+        "supp": 34,
+        "conf": 0.5,
+        "labeled_X": [
+            "kids.fmcg.diapers"
+        ],
+        "labeled_Y": [
+            "kids.fmcg.diapers"
+        ]
+    },
+    {
+        "X_pattern": [
+            80
+        ],
+        "Y_pattern": [
+            80
+        ],
+        "supp": 26,
+        "conf": 0.4,
+        "labeled_X": [
+            "computers.components.cooler"
+        ],
+        "labeled_Y": [
+            "computers.components.cooler"
+        ]
+    },
+    {
+        "X_pattern": [
+            84
+        ],
+        "Y_pattern": [
+            80,
+            84
+        ],
+        "supp": 6,
+        "conf": 0.1875,
+        "labeled_X": [
+            "computers.components.power_supply"
+        ],
+        "labeled_Y": [
+            "computers.components.cooler",
+            "computers.components.power_supply"
+        ]
+    },
+    {
+        "X_pattern": [
+            70
+        ],
+        "Y_pattern": [
+            70
+        ],
+        "supp": 37,
+        "conf": 0.578125,
+        "labeled_X": [
+            "kids.swing"
+        ],
+        "labeled_Y": [
+            "kids.swing"
+        ]
+    },
+    {
+        "X_pattern": [
+            98
+        ],
+        "Y_pattern": [
+            98
+        ],
+        "supp": 25,
+        "conf": 0.390625,
+        "labeled_X": [
+            "computers.ebooks"
+        ],
+        "labeled_Y": [
+            "computers.ebooks"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            78,
+            78
+        ],
+        "supp": 33,
+        "conf": 0.002137651821862348,
+        "labeled_X": [],
+        "labeled_Y": [
+            "electronics.audio.music_tools.piano",
+            "electronics.audio.music_tools.piano"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            88,
+            88
+        ],
+        "supp": 22,
+        "conf": 0.0014251012145748989,
+        "labeled_X": [],
+        "labeled_Y": [
+            "appliances.ironing_board",
+            "appliances.ironing_board"
+        ]
+    },
+    {
+        "X_pattern": [
+            29
+        ],
+        "Y_pattern": [
+            29
+        ],
+        "supp": 30,
+        "conf": 0.5263157894736842,
+        "labeled_X": [
+            "construction.tools.light"
+        ],
+        "labeled_Y": [
+            "construction.tools.light"
+        ]
+    },
+    {
+        "X_pattern": [
+            106
+        ],
+        "Y_pattern": [
+            29
+        ],
+        "supp": 2,
+        "conf": 1.0,
+        "labeled_X": [
+            "apparel.scarf"
+        ],
+        "labeled_Y": [
+            "construction.tools.light"
+        ]
+    },
+    {
+        "X_pattern": [
+            69
+        ],
+        "Y_pattern": [
+            69
+        ],
+        "supp": 10,
+        "conf": 0.17857142857142858,
+        "labeled_X": [
+            "apparel.shirt"
+        ],
+        "labeled_Y": [
+            "apparel.shirt"
+        ]
+    },
+    {
+        "X_pattern": [
+            87
+        ],
+        "Y_pattern": [
+            77
+        ],
+        "supp": 12,
+        "conf": 0.21428571428571427,
+        "labeled_X": [
+            "computers.components.motherboard"
+        ],
+        "labeled_Y": [
+            "computers.components.memory"
+        ]
+    },
+    {
+        "X_pattern": [
+            87
+        ],
+        "Y_pattern": [
+            87
+        ],
+        "supp": 26,
+        "conf": 0.4642857142857143,
+        "labeled_X": [
+            "computers.components.motherboard"
+        ],
+        "labeled_Y": [
+            "computers.components.motherboard"
+        ]
+    },
+    {
+        "X_pattern": [
+            84
+        ],
+        "Y_pattern": [
+            87
+        ],
+        "supp": 7,
+        "conf": 0.21875,
+        "labeled_X": [
+            "computers.components.power_supply"
+        ],
+        "labeled_Y": [
+            "computers.components.motherboard"
+        ]
+    },
+    {
+        "X_pattern": [
+            97
+        ],
+        "Y_pattern": [
+            97
+        ],
+        "supp": 23,
+        "conf": 0.4423076923076923,
+        "labeled_X": [
+            "sport.trainer"
+        ],
+        "labeled_Y": [
+            "sport.trainer"
+        ]
+    },
+    {
+        "X_pattern": [
+            99
+        ],
+        "Y_pattern": [
+            99
+        ],
+        "supp": 23,
+        "conf": 0.45098039215686275,
+        "labeled_X": [
+            "construction.components.faucet"
+        ],
+        "labeled_Y": [
+            "construction.components.faucet"
+        ]
+    },
+    {
+        "X_pattern": [
+            85
+        ],
+        "Y_pattern": [
+            85
+        ],
+        "supp": 20,
+        "conf": 0.4166666666666667,
+        "labeled_X": [
+            "construction.tools.pump"
+        ],
+        "labeled_Y": [
+            "construction.tools.pump"
+        ]
+    },
+    {
+        "X_pattern": [
+            86
+        ],
+        "Y_pattern": [
+            86
+        ],
+        "supp": 19,
+        "conf": 0.3958333333333333,
+        "labeled_X": [
+            "apparel.trousers"
+        ],
+        "labeled_Y": [
+            "apparel.trousers"
+        ]
+    },
+    {
+        "X_pattern": [
+            41
+        ],
+        "Y_pattern": [
+            41
+        ],
+        "supp": 16,
+        "conf": 0.34782608695652173,
+        "labeled_X": [
+            "appliances.environment.air_conditioner"
+        ],
+        "labeled_Y": [
+            "appliances.environment.air_conditioner"
+        ]
+    },
+    {
+        "X_pattern": [
+            100
+        ],
+        "Y_pattern": [
+            100
+        ],
+        "supp": 20,
+        "conf": 0.43478260869565216,
+        "labeled_X": [
+            "electronics.audio.microphone"
+        ],
+        "labeled_Y": [
+            "electronics.audio.microphone"
+        ]
+    },
+    {
+        "X_pattern": [
+            103
+        ],
+        "Y_pattern": [
+            103
+        ],
+        "supp": 19,
+        "conf": 0.4318181818181818,
+        "labeled_X": [
+            "appliances.kitchen.toster"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.toster"
+        ]
+    },
+    {
+        "X_pattern": [
+            82
+        ],
+        "Y_pattern": [
+            82
+        ],
+        "supp": 14,
+        "conf": 0.3888888888888889,
+        "labeled_X": [
+            "furniture.bedroom.blanket"
+        ],
+        "labeled_Y": [
+            "furniture.bedroom.blanket"
+        ]
+    },
+    {
+        "X_pattern": [
+            83
+        ],
+        "Y_pattern": [
+            83
+        ],
+        "supp": 8,
+        "conf": 0.2222222222222222,
+        "labeled_X": [
+            "auto.accessories.winch"
+        ],
+        "labeled_Y": [
+            "auto.accessories.winch"
+        ]
+    },
+    {
+        "X_pattern": [
+            45
+        ],
+        "Y_pattern": [
+            45
+        ],
+        "supp": 15,
+        "conf": 0.4411764705882353,
+        "labeled_X": [
+            "appliances.kitchen.steam_cooker"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.steam_cooker"
+        ]
+    },
+    {
+        "X_pattern": [
+            108
+        ],
+        "Y_pattern": [
+            108
+        ],
+        "supp": 12,
+        "conf": 0.35294117647058826,
+        "labeled_X": [
+            "electronics.video.projector"
+        ],
+        "labeled_Y": [
+            "electronics.video.projector"
+        ]
+    },
+    {
+        "X_pattern": [
+            84
+        ],
+        "Y_pattern": [
+            84
+        ],
+        "supp": 15,
+        "conf": 0.46875,
+        "labeled_X": [
+            "computers.components.power_supply"
+        ],
+        "labeled_Y": [
+            "computers.components.power_supply"
+        ]
+    },
+    {
+        "X_pattern": [
+            22
+        ],
+        "Y_pattern": [
+            22
+        ],
+        "supp": 14,
+        "conf": 0.4666666666666667,
+        "labeled_X": [
+            "furniture.bathroom.toilet"
+        ],
+        "labeled_Y": [
+            "furniture.bathroom.toilet"
+        ]
+    },
+    {
+        "X_pattern": [
+            56
+        ],
+        "Y_pattern": [
+            22
+        ],
+        "supp": 6,
+        "conf": 0.25,
+        "labeled_X": [
+            "furniture.bathroom.bath"
+        ],
+        "labeled_Y": [
+            "furniture.bathroom.toilet"
+        ]
+    },
+    {
+        "X_pattern": [
+            101
+        ],
+        "Y_pattern": [
+            101
+        ],
+        "supp": 13,
+        "conf": 0.4642857142857143,
+        "labeled_X": [
+            "auto.accessories.parktronic"
+        ],
+        "labeled_Y": [
+            "auto.accessories.parktronic"
+        ]
+    },
+    {
+        "X_pattern": [
+            120
+        ],
+        "Y_pattern": [
+            120
+        ],
+        "supp": 12,
+        "conf": 0.42857142857142855,
+        "labeled_X": [
+            "appliances.personal.massager"
+        ],
+        "labeled_Y": [
+            "appliances.personal.massager"
+        ]
+    },
+    {
+        "X_pattern": [
+            56
+        ],
+        "Y_pattern": [
+            56
+        ],
+        "supp": 9,
+        "conf": 0.375,
+        "labeled_X": [
+            "furniture.bathroom.bath"
+        ],
+        "labeled_Y": [
+            "furniture.bathroom.bath"
+        ]
+    },
+    {
+        "X_pattern": [
+            90
+        ],
+        "Y_pattern": [
+            90
+        ],
+        "supp": 12,
+        "conf": 0.5,
+        "labeled_X": [
+            "accessories.umbrella"
+        ],
+        "labeled_Y": [
+            "accessories.umbrella"
+        ]
+    },
+    {
+        "X_pattern": [
+            54
+        ],
+        "Y_pattern": [
+            54
+        ],
+        "supp": 6,
+        "conf": 0.3333333333333333,
+        "labeled_X": [
+            "medicine.tools.tonometer"
+        ],
+        "labeled_Y": [
+            "medicine.tools.tonometer"
+        ]
+    },
+    {
+        "X_pattern": [
+            79
+        ],
+        "Y_pattern": [
+            79
+        ],
+        "supp": 8,
+        "conf": 0.4444444444444444,
+        "labeled_X": [
+            "stationery.cartrige"
+        ],
+        "labeled_Y": [
+            "stationery.cartrige"
+        ]
+    },
+    {
+        "X_pattern": [
+            95
+        ],
+        "Y_pattern": [
+            95
+        ],
+        "supp": 8,
+        "conf": 0.4444444444444444,
+        "labeled_X": [
+            "electronics.camera.photo"
+        ],
+        "labeled_Y": [
+            "electronics.camera.photo"
+        ]
+    },
+    {
+        "X_pattern": [
+            113
+        ],
+        "Y_pattern": [
+            113
+        ],
+        "supp": 6,
+        "conf": 0.3333333333333333,
+        "labeled_X": [
+            "country_yard.lawn_mower"
+        ],
+        "labeled_Y": [
+            "country_yard.lawn_mower"
+        ]
+    },
+    {
+        "X_pattern": [
+            21
+        ],
+        "Y_pattern": [
+            21
+        ],
+        "supp": 6,
+        "conf": 0.375,
+        "labeled_X": [
+            "appliances.kitchen.coffee_grinder"
+        ],
+        "labeled_Y": [
+            "appliances.kitchen.coffee_grinder"
+        ]
+    },
+    {
+        "X_pattern": [
+            102
+        ],
+        "Y_pattern": [
+            102
+        ],
+        "supp": 5,
+        "conf": 0.3125,
+        "labeled_X": [
+            "apparel.shoes.slipons"
+        ],
+        "labeled_Y": [
+            "apparel.shoes.slipons"
+        ]
+    },
+    {
+        "X_pattern": [
+            107
+        ],
+        "Y_pattern": [
+            17,
+            107
+        ],
+        "supp": 6,
+        "conf": 0.375,
+        "labeled_X": [
+            "apparel.shoes.sandals"
+        ],
+        "labeled_Y": [
+            "apparel.shoes",
+            "apparel.shoes.sandals"
+        ]
+    },
+    {
+        "X_pattern": [
+            58
+        ],
+        "Y_pattern": [
+            58
+        ],
+        "supp": 7,
+        "conf": 0.5,
+        "labeled_X": [
+            "furniture.universal.light"
+        ],
+        "labeled_Y": [
+            "furniture.universal.light"
+        ]
+    },
+    {
+        "X_pattern": [
+            94
+        ],
+        "Y_pattern": [
+            94
+        ],
+        "supp": 5,
+        "conf": 0.35714285714285715,
+        "labeled_X": [
+            "construction.tools.painting"
+        ],
+        "labeled_Y": [
+            "construction.tools.painting"
+        ]
+    },
+    {
+        "X_pattern": [
+            121
+        ],
+        "Y_pattern": [
+            121
+        ],
+        "supp": 5,
+        "conf": 0.38461538461538464,
+        "labeled_X": [
+            "sport.ski"
+        ],
+        "labeled_Y": [
+            "sport.ski"
+        ]
+    },
+    {
+        "X_pattern": [
+            48
+        ],
+        "Y_pattern": [
+            48
+        ],
+        "supp": 4,
+        "conf": 0.4,
+        "labeled_X": [
+            "sport.tennis"
+        ],
+        "labeled_Y": [
+            "sport.tennis"
+        ]
+    },
+    {
+        "X_pattern": [
+            114
+        ],
+        "Y_pattern": [
+            114
+        ],
+        "supp": 4,
+        "conf": 0.5,
+        "labeled_X": [
+            "computers.peripherals.camera"
+        ],
+        "labeled_Y": [
+            "computers.peripherals.camera"
+        ]
+    }
+]

@@ -1,0 +1,1 @@
+{"model": [{"X_pattern": [480], "Y_pattern": [161], "supp": 3, "conf": 0.42857142857142855}], "total_encoding_cost": 52174.822393508206, "miner_runtime": 3.627829380830129, "hypercompressed_model": [{"X_pattern": [480], "Y_pattern": [161], "supp": 3, "conf": 0.42857142857142855}], "precision": 0.001, "recall": 0.001, "F1": 0.001}

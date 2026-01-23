@@ -1,0 +1,1236 @@
+[
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            13,
+            2
+        ],
+        "supp": 2747,
+        "conf": 0.17425780258817558,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "dt",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            13,
+            30
+        ],
+        "supp": 1121,
+        "conf": 0.07111139304744989,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "dt",
+            "nns"
+        ]
+    },
+    {
+        "X_pattern": [
+            21,
+            13,
+            30
+        ],
+        "Y_pattern": [
+            19,
+            12
+        ],
+        "supp": 38,
+        "conf": 0.03389830508474576,
+        "labeled_X": [
+            "in",
+            "dt",
+            "nns"
+        ],
+        "labeled_Y": [
+            "cc",
+            "vbz"
+        ]
+    },
+    {
+        "X_pattern": [
+            21,
+            13,
+            2
+        ],
+        "Y_pattern": [
+            10,
+            33
+        ],
+        "supp": 162,
+        "conf": 0.058973425555151074,
+        "labeled_X": [
+            "in",
+            "dt",
+            "nn"
+        ],
+        "labeled_Y": [
+            "wdt",
+            "vbd"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            2
+        ],
+        "supp": 4035,
+        "conf": 0.17064196904339,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            4,
+            2
+        ],
+        "supp": 767,
+        "conf": 0.04865516366404466,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "prp$",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            20,
+            2
+        ],
+        "supp": 95,
+        "conf": 0.006026389241309312,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "cd",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            4
+        ],
+        "supp": 930,
+        "conf": 0.0393301192590713,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "prp$"
+        ]
+    },
+    {
+        "X_pattern": [
+            21,
+            4
+        ],
+        "Y_pattern": [
+            30
+        ],
+        "supp": 329,
+        "conf": 0.35376344086021505,
+        "labeled_X": [
+            "in",
+            "prp$"
+        ],
+        "labeled_Y": [
+            "nns"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            10
+        ],
+        "supp": 371,
+        "conf": 0.015689757252812315,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "wdt"
+        ]
+    },
+    {
+        "X_pattern": [
+            21,
+            10
+        ],
+        "Y_pattern": [
+            25
+        ],
+        "supp": 154,
+        "conf": 0.41509433962264153,
+        "labeled_X": [
+            "in",
+            "wdt"
+        ],
+        "labeled_Y": [
+            "prp"
+        ]
+    },
+    {
+        "X_pattern": [
+            21,
+            34,
+            19
+        ],
+        "Y_pattern": [
+            34
+        ],
+        "supp": 33,
+        "conf": 0.22602739726027396,
+        "labeled_X": [
+            "in",
+            "vbg",
+            "cc"
+        ],
+        "labeled_Y": [
+            "vbg"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            34
+        ],
+        "supp": 604,
+        "conf": 0.025543432292988243,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "vbg"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            13,
+            2
+        ],
+        "supp": 3811,
+        "conf": 0.16116890806055992,
+        "labeled_X": [],
+        "labeled_Y": [
+            "dt",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            13,
+            2
+        ],
+        "Y_pattern": [
+            10
+        ],
+        "supp": 300,
+        "conf": 0.07871949619522435,
+        "labeled_X": [
+            "dt",
+            "nn"
+        ],
+        "labeled_Y": [
+            "wdt"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            31,
+            33,
+            13,
+            1,
+            2
+        ],
+        "supp": 47,
+        "conf": 0.00496912797090417,
+        "labeled_X": [],
+        "labeled_Y": [
+            "ex",
+            "vbd",
+            "dt",
+            "jj",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            2
+        ],
+        "Y_pattern": [
+            19,
+            2
+        ],
+        "supp": 978,
+        "conf": 0.1517219981383804,
+        "labeled_X": [
+            "nn"
+        ],
+        "labeled_Y": [
+            "cc",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            2
+        ],
+        "Y_pattern": [
+            19,
+            4,
+            2
+        ],
+        "supp": 272,
+        "conf": 0.04219671113869066,
+        "labeled_X": [
+            "nn"
+        ],
+        "labeled_Y": [
+            "cc",
+            "prp$",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            4,
+            2
+        ],
+        "supp": 1003,
+        "conf": 0.04241732216865432,
+        "labeled_X": [],
+        "labeled_Y": [
+            "prp$",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            35,
+            2
+        ],
+        "supp": 961,
+        "conf": 0.04064112323437368,
+        "labeled_X": [],
+        "labeled_Y": [
+            "to",
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            13,
+            1
+        ],
+        "supp": 1683,
+        "conf": 0.0711748287236742,
+        "labeled_X": [],
+        "labeled_Y": [
+            "dt",
+            "jj"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            13,
+            30
+        ],
+        "supp": 1538,
+        "conf": 0.06504271335532437,
+        "labeled_X": [],
+        "labeled_Y": [
+            "dt",
+            "nns"
+        ]
+    },
+    {
+        "X_pattern": [
+            13,
+            30
+        ],
+        "Y_pattern": [
+            10
+        ],
+        "supp": 155,
+        "conf": 0.10078023407022106,
+        "labeled_X": [
+            "dt",
+            "nns"
+        ],
+        "labeled_Y": [
+            "wdt"
+        ]
+    },
+    {
+        "X_pattern": [
+            13
+        ],
+        "Y_pattern": [
+            29
+        ],
+        "supp": 38,
+        "conf": 0.007018840044329516,
+        "labeled_X": [
+            "dt"
+        ],
+        "labeled_Y": [
+            "jjs"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            13,
+            18
+        ],
+        "supp": 131,
+        "conf": 0.005540049056922946,
+        "labeled_X": [],
+        "labeled_Y": [
+            "dt",
+            "wp"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            25,
+            33
+        ],
+        "supp": 1098,
+        "conf": 0.04643491499619386,
+        "labeled_X": [],
+        "labeled_Y": [
+            "prp",
+            "vbd"
+        ]
+    },
+    {
+        "X_pattern": [
+            22
+        ],
+        "Y_pattern": [
+            25,
+            33
+        ],
+        "supp": 80,
+        "conf": 0.42328042328042326,
+        "labeled_X": [
+            "wrb"
+        ],
+        "labeled_Y": [
+            "prp",
+            "vbd"
+        ]
+    },
+    {
+        "X_pattern": [
+            10,
+            33
+        ],
+        "Y_pattern": [
+            7
+        ],
+        "supp": 130,
+        "conf": 0.4482758620689655,
+        "labeled_X": [
+            "wdt",
+            "vbd"
+        ],
+        "labeled_Y": [
+            "vbn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            33,
+            7
+        ],
+        "supp": 841,
+        "conf": 0.035566269136429,
+        "labeled_X": [],
+        "labeled_Y": [
+            "vbd",
+            "vbn"
+        ]
+    },
+    {
+        "X_pattern": [
+            18
+        ],
+        "Y_pattern": [
+            33,
+            7
+        ],
+        "supp": 70,
+        "conf": 0.33175355450236965,
+        "labeled_X": [
+            "wp"
+        ],
+        "labeled_Y": [
+            "vbd",
+            "vbn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            18,
+            33
+        ],
+        "supp": 149,
+        "conf": 0.00630127717161465,
+        "labeled_X": [],
+        "labeled_Y": [
+            "wp",
+            "vbd"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            31,
+            33
+        ],
+        "supp": 105,
+        "conf": 0.004440497335701598,
+        "labeled_X": [],
+        "labeled_Y": [
+            "ex",
+            "vbd"
+        ]
+    },
+    {
+        "X_pattern": [
+            31,
+            33
+        ],
+        "Y_pattern": [
+            20
+        ],
+        "supp": 10,
+        "conf": 0.09523809523809523,
+        "labeled_X": [
+            "ex",
+            "vbd"
+        ],
+        "labeled_Y": [
+            "cd"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            28,
+            33
+        ],
+        "supp": 599,
+        "conf": 0.025331980038907215,
+        "labeled_X": [],
+        "labeled_Y": [
+            "nnp",
+            "vbd"
+        ]
+    },
+    {
+        "X_pattern": [
+            1
+        ],
+        "Y_pattern": [
+            30
+        ],
+        "supp": 910,
+        "conf": 0.3133608815426997,
+        "labeled_X": [
+            "jj"
+        ],
+        "labeled_Y": [
+            "nns"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            1,
+            19,
+            1
+        ],
+        "supp": 390,
+        "conf": 0.024739913727480335,
+        "labeled_X": [],
+        "labeled_Y": [
+            "jj",
+            "cc",
+            "jj"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            30,
+            19,
+            30
+        ],
+        "supp": 351,
+        "conf": 0.022265922354732303,
+        "labeled_X": [],
+        "labeled_Y": [
+            "nns",
+            "cc",
+            "nns"
+        ]
+    },
+    {
+        "X_pattern": [
+            30,
+            19,
+            30
+        ],
+        "Y_pattern": [
+            10
+        ],
+        "supp": 34,
+        "conf": 0.09686609686609686,
+        "labeled_X": [
+            "nns",
+            "cc",
+            "nns"
+        ],
+        "labeled_Y": [
+            "wdt"
+        ]
+    },
+    {
+        "X_pattern": [
+            20
+        ],
+        "Y_pattern": [
+            30
+        ],
+        "supp": 119,
+        "conf": 0.4666666666666667,
+        "labeled_X": [
+            "cd"
+        ],
+        "labeled_Y": [
+            "nns"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            4,
+            30
+        ],
+        "supp": 480,
+        "conf": 0.020299416391778735,
+        "labeled_X": [],
+        "labeled_Y": [
+            "prp$",
+            "nns"
+        ]
+    },
+    {
+        "X_pattern": [
+            25
+        ],
+        "Y_pattern": [
+            7
+        ],
+        "supp": 609,
+        "conf": 0.24695863746958638,
+        "labeled_X": [
+            "prp"
+        ],
+        "labeled_Y": [
+            "vbn"
+        ]
+    },
+    {
+        "X_pattern": [
+            25
+        ],
+        "Y_pattern": [
+            8
+        ],
+        "supp": 130,
+        "conf": 0.05271695052716951,
+        "labeled_X": [
+            "prp"
+        ],
+        "labeled_Y": [
+            "vbp"
+        ]
+    },
+    {
+        "X_pattern": [
+            25
+        ],
+        "Y_pattern": [
+            17,
+            8
+        ],
+        "supp": 30,
+        "conf": 0.012165450121654502,
+        "labeled_X": [
+            "prp"
+        ],
+        "labeled_Y": [
+            "md",
+            "vbp"
+        ]
+    },
+    {
+        "X_pattern": [
+            7
+        ],
+        "Y_pattern": [
+            19,
+            7
+        ],
+        "supp": 193,
+        "conf": 0.10179324894514769,
+        "labeled_X": [
+            "vbn"
+        ],
+        "labeled_Y": [
+            "cc",
+            "vbn"
+        ]
+    },
+    {
+        "X_pattern": [
+            32
+        ],
+        "Y_pattern": [
+            19,
+            32
+        ],
+        "supp": 21,
+        "conf": 0.16153846153846155,
+        "labeled_X": [
+            "jjr"
+        ],
+        "labeled_Y": [
+            "cc",
+            "jjr"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            17,
+            27
+        ],
+        "supp": 157,
+        "conf": 0.006639600778144295,
+        "labeled_X": [],
+        "labeled_Y": [
+            "md",
+            "rb"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            17,
+            27,
+            24
+        ],
+        "supp": 88,
+        "conf": 0.005582339507739152,
+        "labeled_X": [],
+        "labeled_Y": [
+            "md",
+            "rb",
+            "vb"
+        ]
+    },
+    {
+        "X_pattern": [
+            8
+        ],
+        "Y_pattern": [
+            7
+        ],
+        "supp": 88,
+        "conf": 0.2634730538922156,
+        "labeled_X": [
+            "vbp"
+        ],
+        "labeled_Y": [
+            "vbn"
+        ]
+    },
+    {
+        "X_pattern": [
+            28
+        ],
+        "Y_pattern": [
+            26,
+            28
+        ],
+        "supp": 136,
+        "conf": 0.07399347116430903,
+        "labeled_X": [
+            "nnp"
+        ],
+        "labeled_Y": [
+            "nnps",
+            "nnp"
+        ]
+    },
+    {
+        "X_pattern": [
+            28,
+            28
+        ],
+        "Y_pattern": [
+            12,
+            28
+        ],
+        "supp": 49,
+        "conf": 0.07401812688821752,
+        "labeled_X": [
+            "nnp",
+            "nnp"
+        ],
+        "labeled_Y": [
+            "vbz",
+            "nnp"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            13,
+            28
+        ],
+        "supp": 500,
+        "conf": 0.03171783811215428,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "dt",
+            "nnp"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            28
+        ],
+        "supp": 900,
+        "conf": 0.03806140573458513,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "nnp"
+        ]
+    },
+    {
+        "X_pattern": [
+            35,
+            10
+        ],
+        "Y_pattern": [
+            17,
+            24
+        ],
+        "supp": 12,
+        "conf": 0.18181818181818182,
+        "labeled_X": [
+            "to",
+            "wdt"
+        ],
+        "labeled_Y": [
+            "md",
+            "vb"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            35,
+            24
+        ],
+        "supp": 784,
+        "conf": 0.03315571343990527,
+        "labeled_X": [],
+        "labeled_Y": [
+            "to",
+            "vb"
+        ]
+    },
+    {
+        "X_pattern": [
+            35,
+            24
+        ],
+        "Y_pattern": [
+            4
+        ],
+        "supp": 153,
+        "conf": 0.1951530612244898,
+        "labeled_X": [
+            "to",
+            "vb"
+        ],
+        "labeled_Y": [
+            "prp$"
+        ]
+    },
+    {
+        "X_pattern": [
+            35,
+            24
+        ],
+        "Y_pattern": [
+            25
+        ],
+        "supp": 204,
+        "conf": 0.2602040816326531,
+        "labeled_X": [
+            "to",
+            "vb"
+        ],
+        "labeled_Y": [
+            "prp"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            35,
+            8
+        ],
+        "supp": 83,
+        "conf": 0.003510107417745073,
+        "labeled_X": [],
+        "labeled_Y": [
+            "to",
+            "vbp"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            17,
+            24
+        ],
+        "supp": 343,
+        "conf": 0.014505624629958556,
+        "labeled_X": [],
+        "labeled_Y": [
+            "md",
+            "vb"
+        ]
+    },
+    {
+        "X_pattern": [
+            17,
+            24
+        ],
+        "Y_pattern": [
+            7
+        ],
+        "supp": 85,
+        "conf": 0.2478134110787172,
+        "labeled_X": [
+            "md",
+            "vb"
+        ],
+        "labeled_Y": [
+            "vbn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            25,
+            17,
+            24
+        ],
+        "supp": 159,
+        "conf": 0.013448363359553413,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "prp",
+            "md",
+            "vb"
+        ]
+    },
+    {
+        "X_pattern": [
+            26
+        ],
+        "Y_pattern": [
+            8
+        ],
+        "supp": 75,
+        "conf": 0.11885895404120443,
+        "labeled_X": [
+            "nnps"
+        ],
+        "labeled_Y": [
+            "vbp"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            26
+        ],
+        "supp": 362,
+        "conf": 0.015309143195466463,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "nnps"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            13,
+            26
+        ],
+        "supp": 197,
+        "conf": 0.012496828216188785,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "dt",
+            "nnps"
+        ]
+    },
+    {
+        "X_pattern": [
+            28,
+            26
+        ],
+        "Y_pattern": [
+            2
+        ],
+        "supp": 133,
+        "conf": 0.532,
+        "labeled_X": [
+            "nnp",
+            "nnps"
+        ],
+        "labeled_Y": [
+            "nn"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            17,
+            8
+        ],
+        "supp": 49,
+        "conf": 0.0020722320899940793,
+        "labeled_X": [],
+        "labeled_Y": [
+            "md",
+            "vbp"
+        ]
+    },
+    {
+        "X_pattern": [
+            18
+        ],
+        "Y_pattern": [
+            17,
+            8
+        ],
+        "supp": 5,
+        "conf": 0.023696682464454975,
+        "labeled_X": [
+            "wp"
+        ],
+        "labeled_Y": [
+            "md",
+            "vbp"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            25,
+            12
+        ],
+        "supp": 111,
+        "conf": 0.004694240040598833,
+        "labeled_X": [],
+        "labeled_Y": [
+            "prp",
+            "vbz"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            28,
+            25,
+            12
+        ],
+        "supp": 45,
+        "conf": 0.0028546054300938846,
+        "labeled_X": [],
+        "labeled_Y": [
+            "nnp",
+            "prp",
+            "vbz"
+        ]
+    },
+    {
+        "X_pattern": [
+            10
+        ],
+        "Y_pattern": [
+            12
+        ],
+        "supp": 26,
+        "conf": 0.053497942386831275,
+        "labeled_X": [
+            "wdt"
+        ],
+        "labeled_Y": [
+            "vbz"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            21,
+            20
+        ],
+        "supp": 165,
+        "conf": 0.00697792438467394,
+        "labeled_X": [],
+        "labeled_Y": [
+            "in",
+            "cd"
+        ]
+    },
+    {
+        "X_pattern": [
+            -1
+        ],
+        "Y_pattern": [
+            13,
+            20
+        ],
+        "supp": 135,
+        "conf": 0.005709210860187769,
+        "labeled_X": [],
+        "labeled_Y": [
+            "dt",
+            "cd"
+        ]
+    }
+]

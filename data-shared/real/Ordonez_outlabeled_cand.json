@@ -1,0 +1,1 @@
+[{"X_pattern": [-1], "Y_pattern": [1, 2, 5, 3, 4, 6], "supp": 11, "conf": 0.08906882591093117, "labeled_X": [], "labeled_Y": ["Sleeping", "Toileting", "Grooming", "Showering", "Breakfast", "Spare_Time/TV"]}, {"X_pattern": [-1], "Y_pattern": [1, 2, 4], "supp": 30, "conf": 0.1214574898785425, "labeled_X": [], "labeled_Y": ["Sleeping", "Toileting", "Breakfast"]}]
