@@ -1,40 +1,33 @@
-################################
+This repo contains code and data for SEQRET: Mining Rule Sets from Event Sequences.
 
-To generate data, run:
+## Usage:
 
+### To generate data:
+```bash
 src/secret.py gen parameters.json
+```
+- The generated model and sequence will be written to destinations provided in `parameters.json`.
+- An example `parameters.json` is provided at `data-shared/template.json`.
 
-(generated model and sequence written to destinations provided in parameters.json)
-
-################################
-
-
-To mine rules, run:
-
+### To mine rules:
+```bash
 src/secret.py mine parameters.json sequences.txt output.json/txt
+```
+- Lines of comma-separated integer IDs to be provided in `sequences.txt`.
+- An example `parameters.json` is provided at `data-shared/template.json`.
 
-(sequences.txt - lines of comma-separated integer IDs)
-
-################################
-
-
-To evaluate, run:
-
+### To evaluate:
+```bash
 src/secret.py eval truemodel.json minedemodel.json 
+```
 
-################################
-
-
-For more details and optional arguments, run:
-
+### For more details and optional arguments:
+```bash
 src/secret.py --h
+```
 
-Sample parameters.json provided at data-shared/template.json
+#### Notes:
 
-#################################
-
-
-Notes:
-
-Alphabet internally dealt as int (IDs of events) to allow arbitrarily large size and work with numpy arrays. Further, 0 and -1 not allowed as IDs.
-Empty pattern (empty rule head) denoted as [-1]
+1. Alphabet internally dealt as int (IDs of events) to allow arbitrarily large size and work with numpy arrays.
+2. Further, 0 and -1 not allowed as IDs.
+3. Empty pattern (empty rule head) denoted as [-1]
