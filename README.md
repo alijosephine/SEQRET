@@ -1,5 +1,9 @@
 This repo contains code and data for SEQRET: Mining Rule Sets from Event Sequences.
 
+## Overview:
+[SEQRET Poster](assets/SEQRET_AAAI26_poster.pdf)  
+[SEQRET Slides](assets/SEQRET_AAAI26_slides.pdf)
+
 ## Usage:
 
 ### To generate data:
