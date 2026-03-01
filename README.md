@@ -1,4 +1,4 @@
-This repo contains code and data for SEQRET: Mining Rule Sets from Event Sequences.
+This repo contains code and data for [SEQRET: Mining Rule Sets from Event Sequences](https://eda.rg.cispa.io/prj/seqret/).
 
 ## Overview:
 [SEQRET Poster](assets/SEQRET_AAAI26_poster.pdf)  
@@ -35,3 +35,16 @@ src/secret.py --h
 1. Alphabet internally dealt as int (IDs of events) to allow arbitrarily large size and work with numpy arrays.
 2. Further, 0 and -1 not allowed as IDs.
 3. Empty pattern (empty rule head) denoted as [-1]
+
+
+### To cite our work:
+
+```bibtex
+@inproceedings{seqret,
+  title={SEQRET: Mining Rule Sets from Event Sequences},
+  author={Siji, Aleena and Cüppers, Joscha and Mian, Osman and Vreeken, Jilles},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  year={2026}
+}
+```
