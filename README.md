@@ -1,8 +1,9 @@
-This repo contains code and data for [SEQRET: Mining Rule Sets from Event Sequences](https://eda.rg.cispa.io/prj/seqret/).
+This repo contains code and data for the paper [SEQRET: Mining Rule Sets from Event Sequences](https://ojs.aaai.org/index.php/AAAI/article/view/38603).
 
 ## Overview:
 [SEQRET Poster](assets/SEQRET_AAAI26_poster.pdf)  
-[SEQRET Slides](assets/SEQRET_AAAI26_slides.pdf)
+[SEQRET Slides](assets/SEQRET_AAAI26_slides.pdf)  
+[Project Page](https://eda.rg.cispa.io/prj/seqret/)  
 
 ## Usage:
 
@@ -45,6 +46,9 @@ src/secret.py --h
   author={Siji, Aleena and Cüppers, Joscha and Mian, Osman and Vreeken, Jilles},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={40},
+  number={18},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/38603},
+  DOI={10.1609/aaai.v40i18.38603}, 
   year={2026}
 }
 ```
